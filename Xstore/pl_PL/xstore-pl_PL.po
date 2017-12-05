@@ -1,0 +1,5399 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 &&(n"
+"%100<10||n%100 >= 20)? 1 : 2);\n"
+"Project-Id-Version: XStore\n"
+"POT-Creation-Date: 2017-08-17 16:16+0300\n"
+"PO-Revision-Date: 2017-12-01 12:11+0200\n"
+"Last-Translator: admin <admin@gry4you.com>\n"
+"Language-Team: Polish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "Oops! Page not found"
+msgstr "Ups! Strona, której szukasz, nie została znaleziona"
+
+#: 404.php:20
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current URL."
+msgstr ""
+"Przepraszamy, ale strona, której szukasz, nie została znaleziona. Upewnij "
+"się, że wpisałeś właściwy adres URL."
+
+#: 404.php:22
+msgid "Go to home page"
+msgstr "Powrót do strony głównej"
+
+#: attachment.php:41 single.php:108
+msgid "Share Post"
+msgstr "Udostępnij wpis"
+
+#: attachment.php:51 index.php:58 single.php:149
+msgid "No posts were found!"
+msgstr "Żadne wpisy nie zostały znalezione!"
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Szukaj dla:"
+
+#: bbpress/form-search.php:16
+msgid "Search on our forum"
+msgstr "Szukaj na naszym forum"
+
+#: bbpress/form-search.php:17 framework/template-elements.php:530
+#: searchform.php:11 sidebar.php:22 woosearchform.php:35
+msgid "Search"
+msgstr "Szukaj"
+
+#: blank.php:20 page.php:30 single-etheme_portfolio.php:30
+msgid "No pages were found!"
+msgstr "Żadne strony nie zostały znalezione!"
+
+#: comments.php:5
+msgid "You cannot access this file"
+msgstr "Brak dostępu do tego pliku"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr "Wpis chroniony hasłem. Wprowadź hasło, aby wyświetlić komentarze."
+
+#: comments.php:19 framework/widgets/recent-posts.php:82
+msgid "No Comments"
+msgstr "Brak komentarzy"
+
+#: comments.php:19
+msgid "One Comment"
+msgstr "Jeden komentarz"
+
+#: comments.php:19 framework/widgets/recent-posts.php:82
+msgid "% Comments"
+msgstr "% komentarzy"
+
+#: comments.php:28
+msgid "&larr; Older Comments"
+msgstr "&larr; starsze komentarze"
+
+#: comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr "Nowe komentarze &rarr;"
+
+#: comments.php:39
+msgid "Comments are closed"
+msgstr "Możliwość dodawania komentarzy jest niedostępna"
+
+#: comments.php:45
+msgid "Leave a reply"
+msgstr "Zostaw odpowiedź"
+
+#: content-portfolio.php:43
+msgid "View large"
+msgstr "Zobacz duże"
+
+#: content-portfolio.php:44
+msgid "More details"
+msgstr "Więcej szczegółów"
+
+#: content.php:24 framework/shortcodes/products.php:319
+msgid "Featured"
+msgstr "Opisany"
+
+#: framework/custom-metaboxes.php:24
+msgid "[8theme] Layout options"
+msgstr "[8theme] Opcje układu"
+
+#: framework/custom-metaboxes.php:259
+msgid "[8theme] Product Options"
+msgstr "[8theme] Opcje produktów"
+
+#: framework/custom-metaboxes.php:272 framework/custom-metaboxes.php:394
+msgid "Inherit"
+msgstr "Dziedziczyć"
+
+#: framework/custom-metaboxes.php:273 framework/shortcodes/follow.php:214
+#: framework/shortcodes/icon-box.php:359 framework/theme-options.php:730
+#: framework/theme-options.php:1691
+msgid "Small"
+msgstr "Mały"
+
+#: framework/custom-metaboxes.php:274 framework/custom-metaboxes.php:395
+#: framework/shortcodes/custom-tabs.php:72
+#: framework/shortcodes/icon-box.php:344 framework/shortcodes/icon-box.php:358
+#: framework/shortcodes/products.php:313
+#: framework/shortcodes/special-offer.php:292 framework/shortcodes/tabs.php:14
+#: framework/theme-options.php:1448 framework/theme-options.php:1594
+#: framework/theme-options.php:1695 framework/theme-options.php:1867
+#: framework/theme-options.php:1974 framework/theme-options.php:2176
+#: framework/theme-options.php:2254 framework/theme-options.php:2384
+msgid "Default"
+msgstr "Domyślny"
+
+#: framework/custom-metaboxes.php:275 framework/custom-metaboxes.php:396
+#: framework/shortcodes/follow.php:215 framework/shortcodes/icon-box.php:360
+#: framework/shortcodes/instagram.php:77 framework/theme-options.php:731
+#: framework/theme-options.php:1703 framework/theme-options.php:2388
+#: framework/widgets/wp-instagram-widget.php:226
+msgid "Large"
+msgstr "Duży"
+
+#: framework/custom-metaboxes.php:276
+msgid "Fixed"
+msgstr "Naprawiony"
+
+#: framework/custom-metaboxes.php:277 framework/shortcodes/banner.php:271
+#: framework/shortcodes/follow.php:224 framework/shortcodes/icon-box.php:371
+#: framework/shortcodes/menu.php:92 framework/shortcodes/the-look.php:461
+#: framework/shortcodes/title.php:194 framework/theme-options.php:1028
+#: framework/theme-options.php:1471 framework/theme-options.php:2180
+#: framework/theme-options.php:2320 framework/vc.php:215
+msgid "Center"
+msgstr "Centralny"
+
+#: framework/custom-metaboxes.php:278 framework/theme-options.php:1699
+msgid "Thin description"
+msgstr "Cienki opis"
+
+#: framework/custom-metaboxes.php:279 framework/shortcodes/title.php:175
+#: framework/theme-options.php:1715
+msgid "Wide"
+msgstr "Szeroki"
+
+#: framework/custom-metaboxes.php:380
+msgid "[8theme] Post Options"
+msgstr "[8theme] Opcje wpisu"
+
+#: framework/custom-metaboxes.php:397 framework/theme-options.php:1569
+#: framework/theme-options.php:2235 framework/theme-options.php:2392
+msgid "Full width"
+msgstr "Pełna szerokość"
+
+#: framework/custom-metaboxes.php:398 framework/theme-options.php:2396
+msgid "Full width centered"
+msgstr "Pełna wyśrodkowana szerokość"
+
+#: framework/custom-metaboxes.php:460
+msgid "Category Metabox"
+msgstr "Metabox kategorii"
+
+#: framework/post-types/portfolio.php:153
+msgid "Show All"
+msgstr "Pokaż wszystko"
+
+#: framework/post-types/portfolio.php:186
+msgid "No projects were found!"
+msgstr "Nie znaleziono żadnych projektów!"
+
+#: framework/shortcodes.php:317
+msgid "Previous"
+msgstr "Poprzednia"
+
+#: framework/shortcodes.php:328
+msgid "Next"
+msgstr "Następna"
+
+#: framework/shortcodes.php:392
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/shortcodes.php:402
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/shortcodes.php:412
+msgid "VK"
+msgstr "VK"
+
+#: framework/shortcodes.php:422
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/shortcodes.php:432
+msgid "Google +"
+msgstr "Google +"
+
+#: framework/shortcodes.php:442
+msgid "Check%20this%20out:%20"
+msgstr "Check%20this%20out:%20"
+
+#: framework/shortcodes.php:442
+msgid "Mail to friend"
+msgstr "Prześlij znajomemu"
+
+#: framework/shortcodes.php:452
+msgid "linkedin"
+msgstr "linkedin"
+
+#: framework/shortcodes.php:462
+msgid "whatsapp"
+msgstr "whatsapp"
+
+#: framework/shortcodes.php:472
+msgid "skype"
+msgstr "skype"
+
+#: framework/shortcodes/banner.php:157 framework/shortcodes/title.php:64
+msgid "Title font"
+msgstr "Czcionka tytułu"
+
+#: framework/shortcodes/banner.php:193 framework/shortcodes/title.php:100
+msgid "Subtitle font"
+msgstr "Czcionka napisów"
+
+#: framework/shortcodes/banner.php:237 framework/shortcodes/banner.php:250
+#: framework/shortcodes/title.php:150 framework/shortcodes/title.php:163
+msgid "Use custom font?"
+msgstr "Użyj standardowej czcionki?"
+
+#: framework/shortcodes/banner.php:239 framework/shortcodes/title.php:152
+msgid "Enable Google fonts."
+msgstr "Włącz czcionkę Google."
+
+#: framework/shortcodes/banner.php:252 framework/shortcodes/title.php:165
+msgid "Enable custom font option."
+msgstr "Włącz opcje czcionki standardowej."
+
+#: framework/shortcodes/banner.php:264 framework/shortcodes/the-look.php:431
+msgid "Link"
+msgstr "Połączyć"
+
+#: framework/shortcodes/banner.php:269 framework/shortcodes/the-look.php:458
+msgid "Horizontal align"
+msgstr "Wyrównanie w poziomie"
+
+#: framework/shortcodes/banner.php:271 framework/shortcodes/follow.php:225
+#: framework/shortcodes/icon-box.php:299 framework/shortcodes/icon-box.php:370
+#: framework/shortcodes/menu.php:91 framework/shortcodes/team-member.php:178
+#: framework/shortcodes/the-look.php:461 framework/shortcodes/title.php:193
+#: framework/theme-options.php:1029 framework/theme-options.php:2319
+#: framework/vc.php:55 framework/vc.php:214
+msgid "Left"
+msgstr "Lewo"
+
+#: framework/shortcodes/banner.php:271 framework/shortcodes/follow.php:226
+#: framework/shortcodes/icon-box.php:301 framework/shortcodes/icon-box.php:372
+#: framework/shortcodes/menu.php:93 framework/shortcodes/team-member.php:179
+#: framework/shortcodes/the-look.php:461 framework/shortcodes/title.php:195
+#: framework/theme-options.php:1030 framework/theme-options.php:2321
+#: framework/vc.php:56 framework/vc.php:216
+msgid "Right"
+msgstr "Prawo"
+
+#: framework/shortcodes/banner.php:275 framework/shortcodes/the-look.php:465
+msgid "Vertical align"
+msgstr "Wyrównanie w pionie"
+
+#: framework/shortcodes/banner.php:277 framework/shortcodes/icon-box.php:300
+#: framework/shortcodes/team-member.php:167
+#: framework/shortcodes/the-look.php:468 framework/theme-options.php:643
+#: framework/theme-options.php:1472 framework/theme-options.php:1556
+msgid "Top"
+msgstr "Góra"
+
+#: framework/shortcodes/banner.php:277 framework/shortcodes/team-member.php:168
+#: framework/shortcodes/the-look.php:468
+msgid "Middle"
+msgstr "Środek"
+
+#: framework/shortcodes/banner.php:277 framework/shortcodes/team-member.php:169
+#: framework/shortcodes/the-look.php:468 framework/theme-options.php:644
+#: framework/theme-options.php:1473 framework/theme-options.php:1557
+msgid "Bottom"
+msgstr "Dół"
+
+#: framework/shortcodes/banner.php:281 framework/shortcodes/the-look.php:472
+msgid "Banner design"
+msgstr "Projekt banera"
+
+#: framework/shortcodes/banner.php:284 framework/theme-options.php:1451
+msgid "Diagonal"
+msgstr "Przekątna"
+
+#: framework/shortcodes/banner.php:285 framework/theme-options.php:1450
+#: framework/theme-options.php:2255
+msgid "Zoom"
+msgstr "Powiększenie"
+
+#: framework/shortcodes/banner.php:286
+msgid "Without"
+msgstr "Bez"
+
+#: framework/shortcodes/banner.php:291 framework/shortcodes/the-look.php:482
+msgid "Font style"
+msgstr "Styl czcionki"
+
+#: framework/shortcodes/banner.php:293 framework/shortcodes/the-look.php:485
+msgid "light"
+msgstr "jasny"
+
+#: framework/shortcodes/banner.php:293 framework/shortcodes/the-look.php:485
+msgid "dark"
+msgstr "ciemny"
+
+#: framework/shortcodes/banner.php:297
+msgid "Responsive fonts"
+msgstr "Czcionki responsywne"
+
+#: framework/shortcodes/banner.php:300 framework/shortcodes/carousel.php:123
+#: framework/shortcodes/instagram.php:111
+#: framework/shortcodes/instagram.php:119
+msgid "Yes"
+msgstr "Tak"
+
+#: framework/shortcodes/banner.php:301 framework/shortcodes/carousel.php:124
+msgid "No"
+msgstr "Nie"
+
+#: framework/shortcodes/banner.php:312 framework/shortcodes/the-look.php:418
+msgid "Banner Image"
+msgstr "Obraz baneru"
+
+#: framework/shortcodes/banner.php:318 framework/shortcodes/the-look.php:424
+msgid "Banner size"
+msgstr "Rozmiar baneru"
+
+#: framework/shortcodes/banner.php:320 framework/shortcodes/custom-tabs.php:137
+#: framework/shortcodes/icon-box.php:261
+#: framework/shortcodes/special-offer.php:285
+#: framework/shortcodes/team-member.php:142
+#: framework/shortcodes/the-look.php:426
+msgid "Enter image size. Example in pixels: 200x100 (Width x Height)."
+msgstr ""
+"Wprowadź rozmiar obrazu. Przykład w pikselach: 200 x 100 (szerokość x "
+"wysokość)."
+
+#: framework/shortcodes/banner.php:326
+msgid "Image Opacity"
+msgstr "Krycie obrazu"
+
+#: framework/shortcodes/banner.php:333 framework/shortcodes/banner.php:346
+msgid ""
+"Enter value between 0.0 to 1 (0 is maximum transparency, while 1 is lowest)"
+msgstr ""
+"Wpisz wartość od 0,0 do 1 (0 oznacza maksymalną przezroczystość, a 1 - "
+"najniższą)"
+
+#: framework/shortcodes/banner.php:339
+msgid "Image Opacity on Hover"
+msgstr "Krycie obrazu po najechaniu kursorem myszy"
+
+#: framework/shortcodes/banner.php:352
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: framework/shortcodes/banner.php:360 framework/shortcodes/brands.php:177
+#: framework/shortcodes/brands_list.php:156
+#: framework/shortcodes/carousel.php:129
+#: framework/shortcodes/categories-lists.php:290
+#: framework/shortcodes/categories.php:320
+#: framework/shortcodes/countdown.php:140 framework/shortcodes/icon-box.php:378
+#: framework/shortcodes/looks.php:76 framework/shortcodes/team-member.php:209
+#: framework/shortcodes/title.php:200 framework/shortcodes/twitter.php:131
+msgid "Extra Class"
+msgstr "Dodatkowa klasa"
+
+#: framework/shortcodes/banner.php:362 framework/shortcodes/countdown.php:142
+#: framework/shortcodes/custom-tabs.php:81
+#: framework/shortcodes/custom-tabs.php:153
+#: framework/shortcodes/icon-box.php:380 framework/shortcodes/looks.php:78
+#: framework/shortcodes/team-member.php:211 framework/shortcodes/title.php:202
+#: framework/shortcodes/twitter.php:133
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Jeśli chcesz w inny sposób stylizować określony element treści, użyj tego "
+"pola, aby dodać nazwę klasy, a następnie odwołaj się do niej w pliku css."
+
+#: framework/shortcodes/banner.php:366 framework/shortcodes/icon-box.php:384
+#: framework/shortcodes/the-look.php:489
+msgid "CSS box"
+msgstr "Skrzynka CSS"
+
+#: framework/shortcodes/banner.php:368
+msgid "Design for banner content"
+msgstr "Projekt dla zawartości bannerowej"
+
+#: framework/shortcodes/blog.php:242
+#, php-format
+msgid "Showing: %d-%d shown from %s"
+msgstr "Showing: %d-%d shown from %s"
+
+#: framework/shortcodes/blog.php:279
+msgid "Post"
+msgstr "Wpis"
+
+#: framework/shortcodes/blog.php:281 framework/shortcodes/special-offer.php:261
+#: framework/shortcodes/the-look.php:228
+msgid "List of IDs"
+msgstr "Lista identyfikatorów"
+
+#: framework/shortcodes/blog.php:286 framework/shortcodes/the-look.php:242
+msgid "Data source"
+msgstr "Źródło danych"
+
+#: framework/shortcodes/blog.php:289 framework/shortcodes/the-look.php:245
+msgid "Select content type for your grid."
+msgstr "Wybierz typ zawartości dla swojej siatki."
+
+#: framework/shortcodes/blog.php:293 framework/shortcodes/the-look.php:249
+msgid "Include only"
+msgstr "Uwzględnij tylko"
+
+#: framework/shortcodes/blog.php:295 framework/shortcodes/the-look.php:251
+msgid "Add posts, pages, etc. by title."
+msgstr "Dodaj wpisy, strony itp. według tytułu."
+
+#: framework/shortcodes/blog.php:310 framework/shortcodes/the-look.php:266
+msgid "Custom query"
+msgstr "Niestandardowe zapytanie"
+
+#: framework/shortcodes/blog.php:312 framework/shortcodes/the-look.php:268
+msgid ""
+"Build custom query according to <a href=\"http://codex.wordpress.org/"
+"Function_Reference/query_posts\">WordPress Codex</a>."
+msgstr ""
+"Twórz niestandardowe zapytania zgodnie z <a href=\"http://codex.wordpress."
+"org/Function_Reference/query_posts\">WordPress Codex</a>."
+
+#: framework/shortcodes/blog.php:320 framework/shortcodes/the-look.php:276
+msgid "Narrow data source"
+msgstr "Wąskie źródło danych"
+
+#: framework/shortcodes/blog.php:342 framework/shortcodes/products.php:373
+#: framework/shortcodes/the-look.php:298
+msgid "Enter categories, tags or custom taxonomies."
+msgstr "Wpisz kategorie, tagi lub niestandardowe taksonomie."
+
+#: framework/shortcodes/blog.php:350 framework/shortcodes/the-look.php:316
+#: framework/theme-options.php:2536
+msgid "Items per page"
+msgstr "Przedmioty na stronie"
+
+#: framework/shortcodes/blog.php:352 framework/shortcodes/the-look.php:318
+msgid "Number of items to show per page."
+msgstr "Liczba elementów do wyświetlenia na stronie."
+
+#: framework/shortcodes/blog.php:362 framework/shortcodes/products.php:248
+msgid "Images size"
+msgstr "Rozmiar obrazu"
+
+#: framework/shortcodes/blog.php:368
+msgid "Blog hover effect"
+msgstr "Efekt ukrywania bloga"
+
+#: framework/shortcodes/blog.php:379 framework/shortcodes/brands.php:146
+#: framework/shortcodes/categories-lists.php:274
+#: framework/shortcodes/categories.php:304
+#: framework/shortcodes/products.php:332 framework/shortcodes/the-look.php:348
+#: framework/widgets/products.php:44
+msgid "Order by"
+msgstr "Zamów przez"
+
+#: framework/shortcodes/blog.php:382 framework/shortcodes/products.php:186
+#: framework/shortcodes/the-look.php:351 framework/widgets/products.php:46
+msgid "Date"
+msgstr "Data"
+
+#: framework/shortcodes/blog.php:383 framework/shortcodes/the-look.php:352
+msgid "Order by post ID"
+msgstr "Zamów przez ID wpisu"
+
+#: framework/shortcodes/blog.php:384 framework/shortcodes/products.php:189
+#: framework/shortcodes/the-look.php:353
+msgid "Author"
+msgstr "Autor"
+
+#: framework/shortcodes/blog.php:385 framework/shortcodes/brands.php:123
+#: framework/shortcodes/brands.php:234
+#: framework/shortcodes/categories-lists.php:199
+#: framework/shortcodes/categories.php:195
+#: framework/shortcodes/categories.php:216
+#: framework/shortcodes/custom-tabs.php:124
+#: framework/shortcodes/instagram.php:57 framework/shortcodes/menu.php:68
+#: framework/shortcodes/products.php:190 framework/shortcodes/products.php:219
+#: framework/shortcodes/tabs.php:31 framework/shortcodes/the-look.php:354
+#: framework/shortcodes/twitter.php:87 framework/widgets/about-author.php:69
+#: framework/widgets/brands.php:27 framework/widgets/menu.php:74
+#: framework/widgets/products.php:21 framework/widgets/socials.php:133
+#: framework/widgets/wp-instagram-widget.php:219
+msgid "Title"
+msgstr "Tytuł"
+
+#: framework/shortcodes/blog.php:386 framework/shortcodes/the-look.php:355
+msgid "Last modified date"
+msgstr "Data ostatniej modyfikacji"
+
+#: framework/shortcodes/blog.php:387 framework/shortcodes/the-look.php:356
+msgid "Post/page parent ID"
+msgstr "Identyfikator rodzimego wpisu/strony"
+
+#: framework/shortcodes/blog.php:388 framework/shortcodes/the-look.php:357
+msgid "Number of comments"
+msgstr "Liczba komentarzy"
+
+#: framework/shortcodes/blog.php:389 framework/shortcodes/the-look.php:358
+msgid "Menu order/Page Order"
+msgstr "Kolejność menu / kolejność stron"
+
+#: framework/shortcodes/blog.php:390 framework/shortcodes/the-look.php:359
+msgid "Meta value"
+msgstr "Wartość meta"
+
+#: framework/shortcodes/blog.php:391 framework/shortcodes/the-look.php:360
+msgid "Meta value number"
+msgstr "Numer wartości meta"
+
+#: framework/shortcodes/blog.php:393 framework/shortcodes/the-look.php:362
+msgid "Random order"
+msgstr "Losowe zamówienie"
+
+#: framework/shortcodes/blog.php:395 framework/shortcodes/the-look.php:364
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+"Wybierz rodzaj zamówienia. Jeśli wybrana jest \"Wartość meta\" lub \"Numer "
+"wartości meta\", wymagany jest klucz meta."
+
+#: framework/shortcodes/blog.php:396 framework/shortcodes/blog.php:407
+#: framework/shortcodes/blog.php:424 framework/shortcodes/blog.php:448
+#: framework/shortcodes/the-look.php:365 framework/shortcodes/the-look.php:376
+#: framework/shortcodes/the-look.php:393 framework/shortcodes/the-look.php:405
+msgid "Data Settings"
+msgstr "Ustawienia danych"
+
+#: framework/shortcodes/blog.php:405 framework/shortcodes/the-look.php:374
+msgid "Sorting"
+msgstr "Sortowanie"
+
+#: framework/shortcodes/blog.php:409 framework/shortcodes/brands.php:129
+#: framework/shortcodes/categories-lists.php:207
+#: framework/shortcodes/categories.php:203
+#: framework/shortcodes/products.php:201 framework/shortcodes/the-look.php:378
+msgid "Descending"
+msgstr "Malejąco"
+
+#: framework/shortcodes/blog.php:410 framework/shortcodes/brands.php:130
+#: framework/shortcodes/categories-lists.php:208
+#: framework/shortcodes/categories.php:204
+#: framework/shortcodes/products.php:202 framework/shortcodes/the-look.php:379
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#: framework/shortcodes/blog.php:413 framework/shortcodes/the-look.php:382
+msgid "Select sorting order."
+msgstr "Wybierz kolejność sortowania."
+
+#: framework/shortcodes/blog.php:421 framework/shortcodes/the-look.php:390
+msgid "Meta key"
+msgstr "Klucz meta"
+
+#: framework/shortcodes/blog.php:423 framework/shortcodes/the-look.php:392
+msgid "Input meta key for grid ordering."
+msgstr "Wprowadź klucz meta do uporządkowania siatki."
+
+#: framework/shortcodes/blog.php:445 framework/shortcodes/the-look.php:402
+msgid "Exclude"
+msgstr "Wykluczać"
+
+#: framework/shortcodes/blog.php:447 framework/shortcodes/the-look.php:404
+msgid "Exclude posts, pages, etc. by title."
+msgstr "Wyklucz wpisy, strony itp. według tytułu."
+
+#: framework/shortcodes/blog.php:469 framework/shortcodes/products.php:346
+#: framework/shortcodes/testimonials.php:23
+msgid "Limit"
+msgstr "Limit"
+
+#: framework/shortcodes/blog.php:470
+msgid "Use \"-1\" to show all posts."
+msgstr "Użyj \"-1\" do pokazania wszystkich wpisów."
+
+#: framework/shortcodes/blog.php:476
+msgid "Posts template"
+msgstr "Szablon wiadomości"
+
+#: framework/shortcodes/blog.php:486
+msgid "Blog align"
+msgstr "Wyrównanie bloga"
+
+#: framework/shortcodes/brands.php:82 framework/shortcodes/brands.php:87
+#, php-format
+msgid "View all products from %s"
+msgstr "VWyświetl wszystkie produkty z %s"
+
+#: framework/shortcodes/brands.php:121
+#: framework/shortcodes/categories-lists.php:202
+#: framework/shortcodes/categories.php:198
+#: framework/shortcodes/products.php:188
+msgid "As IDs provided order"
+msgstr "Jako identyfikatory pod warunkiem porządku"
+
+#: framework/shortcodes/brands.php:122
+#: framework/shortcodes/categories-lists.php:198
+#: framework/shortcodes/categories.php:194
+#: framework/shortcodes/products.php:187
+msgid "ID"
+msgstr "Identyfikator"
+
+#: framework/shortcodes/brands.php:124 woocommerce/cart/cart.php:26
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "Ilość"
+
+#: framework/shortcodes/brands.php:141
+msgid "Number of brands"
+msgstr "Liczba marek"
+
+#: framework/shortcodes/brands.php:149
+#: framework/shortcodes/categories-lists.php:278
+#: framework/shortcodes/categories.php:308
+#: framework/shortcodes/products.php:335
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr "Wybierz sposób sortowania pobranych produktów. Więcej w %s."
+
+#: framework/shortcodes/brands.php:153 framework/shortcodes/products.php:339
+msgid "Order way"
+msgstr "Sposób zamawiania"
+
+#: framework/shortcodes/brands.php:156
+#: framework/shortcodes/categories-lists.php:286
+#: framework/shortcodes/categories.php:316
+#: framework/shortcodes/products.php:342
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr "Wyznacza rosnącą lub malejącą kolejność. Więcej w %s."
+
+#: framework/shortcodes/brands.php:160 framework/shortcodes/brands_list.php:145
+#: framework/theme-options.php:329
+msgid "Brands"
+msgstr "Marki"
+
+#: framework/shortcodes/brands.php:167 framework/shortcodes/brands_list.php:152
+msgid "List of product brands"
+msgstr "Lista marek produktów"
+
+#: framework/shortcodes/brands.php:171 framework/widgets/brands.php:51
+msgid "Hide empty brands"
+msgstr "Ukryj puste marki"
+
+#: framework/shortcodes/brands.php:173
+#: framework/shortcodes/special-offer.php:315
+#: framework/shortcodes/special-offer.php:326 framework/vc.php:91
+#: framework/vc.php:99 framework/vc.php:194 framework/vc.php:224
+#: framework/vc.php:231 framework/vc.php:238 framework/vc.php:245
+#: framework/vc.php:252 framework/vc.php:259 framework/vc.php:266
+msgid "Yes, please"
+msgstr "Tak, proszę"
+
+#: framework/shortcodes/brands.php:202 framework/shortcodes/brands.php:237
+msgid "Id"
+msgstr "Identyfikator"
+
+#: framework/shortcodes/brands.php:202 framework/theme-functions.php:724
+#: framework/widgets/brands.php:34
+msgid "Name"
+msgstr "Imię"
+
+#: framework/shortcodes/brands.php:202
+msgid "Slug"
+msgstr "Ślimak"
+
+#: framework/shortcodes/brands.php:229
+msgid "Sku"
+msgstr "Sku"
+
+#: framework/shortcodes/carousel.php:120
+msgid "Add space between slides"
+msgstr "Dodaj odstęp między slajdami"
+
+#: framework/shortcodes/categories-lists.php:166
+msgid "View All"
+msgstr "Pokaż wszystko"
+
+#: framework/shortcodes/categories-lists.php:200
+#: framework/shortcodes/categories.php:196
+#: framework/shortcodes/products.php:191
+msgid "Modified"
+msgstr "Zmodyfikowany"
+
+#: framework/shortcodes/categories-lists.php:201
+#: framework/shortcodes/categories.php:197
+msgid "Products count"
+msgstr "Podliczone produkty"
+
+#: framework/shortcodes/categories-lists.php:220
+#: framework/shortcodes/categories.php:221
+msgid "Number of categories"
+msgstr "Liczba kategorii"
+
+#: framework/shortcodes/categories-lists.php:225
+#: framework/shortcodes/categories.php:226 framework/theme-options.php:1438
+#: framework/theme-options.php:2450
+msgid "Categories"
+msgstr "Kategorie"
+
+#: framework/shortcodes/categories-lists.php:232
+#: framework/shortcodes/categories.php:233
+msgid "List of product categories"
+msgstr "Lista kategorii produktów"
+
+#: framework/shortcodes/categories-lists.php:236
+msgid "Subcategories limit"
+msgstr "Ograniczenie podkategorii"
+
+#: framework/shortcodes/categories-lists.php:241
+msgid "Exclude Categories"
+msgstr "Wyklucz kategorie"
+
+#: framework/shortcodes/categories-lists.php:248
+msgid "List of product categories to exclude"
+msgstr "Lista kategorii produktów do wykluczenia"
+
+#: framework/shortcodes/categories-lists.php:252
+#: framework/shortcodes/categories.php:275
+#: framework/shortcodes/special-offer.php:289
+#: framework/shortcodes/testimonials.php:29
+msgid "Display type"
+msgstr "Typ wyświetlania"
+
+#: framework/shortcodes/categories-lists.php:255
+#: framework/shortcodes/categories.php:278
+#: framework/shortcodes/products.php:240
+#: framework/shortcodes/testimonials.php:35
+#: framework/shortcodes/twitter.php:126 framework/theme-options.php:2184
+#: framework/woo.php:592 framework/woo.php:602
+msgid "Grid"
+msgstr "Grid"
+
+#: framework/shortcodes/categories-lists.php:256
+#: framework/shortcodes/categories.php:279
+#: framework/shortcodes/instagram.php:108 framework/shortcodes/products.php:239
+#: framework/shortcodes/special-offer.php:293
+#: framework/shortcodes/testimonials.php:33
+#: framework/shortcodes/twitter.php:125 framework/theme-options.php:1961
+msgid "Slider"
+msgstr "Slider"
+
+#: framework/shortcodes/categories-lists.php:261
+#: framework/shortcodes/categories.php:285
+#: framework/shortcodes/instagram.php:82 framework/shortcodes/products.php:269
+#: framework/theme-options.php:2221 framework/theme-options.php:2508
+#: framework/vc.php:198 framework/widgets/wp-instagram-widget.php:235
+msgid "Columns"
+msgstr "Kolumny"
+
+#: framework/shortcodes/categories-lists.php:264
+#: framework/shortcodes/categories.php:288 framework/vc.php:203
+msgid "2"
+msgstr "2"
+
+#: framework/shortcodes/categories-lists.php:265
+#: framework/shortcodes/categories.php:289 framework/vc.php:204
+msgid "3"
+msgstr "3"
+
+#: framework/shortcodes/categories-lists.php:266
+#: framework/shortcodes/categories.php:290 framework/vc.php:205
+msgid "4"
+msgstr "4"
+
+#: framework/shortcodes/categories-lists.php:267
+#: framework/shortcodes/categories.php:291
+msgid "5"
+msgstr "5"
+
+#: framework/shortcodes/categories-lists.php:268
+#: framework/shortcodes/categories.php:292
+msgid "6"
+msgstr "6"
+
+#: framework/shortcodes/categories-lists.php:282
+#: framework/shortcodes/categories.php:312
+msgid "Sort order"
+msgstr "Sortuj zamówienie"
+
+#: framework/shortcodes/categories.php:237
+msgid "Parent ID"
+msgstr "Rodzimy identyfikator"
+
+#: framework/shortcodes/categories.php:239
+msgid ""
+"Get direct children of this term (only terms whose explicit parent is this "
+"value). If 0 is passed, only top-level terms are returned. Default is an "
+"empty string."
+msgstr ""
+"Uzyskaj bezpośredni dostęp dzieci do tego terminu (tylko terminy, których "
+"jawnym rodzicem jest ta wartość). Jeśli zostanie podane 0, zwracane są tylko "
+"hasła najwyższego poziomu. Domyślnie jest pustym ciągiem."
+
+#: framework/shortcodes/categories.php:243
+#: framework/shortcodes/icon-box.php:340 framework/shortcodes/menu.php:79
+#: framework/widgets/menu.php:78
+msgid "Style"
+msgstr "Styl"
+
+#: framework/shortcodes/categories.php:255
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+#: framework/shortcodes/categories.php:265
+msgid "Vertical align for text"
+msgstr "Wyrównanie tekstu w pionie"
+
+#: framework/shortcodes/categories.php:280 framework/shortcodes/menu.php:73
+#: framework/widgets/menu.php:9 framework/widgets/menu.php:10
+#: framework/widgets/menu.php:76 headers/advanced.php:24 headers/center.php:23
+#: headers/center2.php:48 headers/center3.php:28 headers/double-menu.php:23
+#: headers/simple.php:28 headers/standard.php:19 headers/two-rows.php:35
+#: headers/vertical.php:21 headers/vertical2.php:34 headers/xstore.php:28
+#: headers/xstore2.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: framework/shortcodes/categories.php:298
+msgid "Remove space between items"
+msgstr "Usuń przestrzeń między przedmiotami"
+
+#: framework/shortcodes/countdown.php:41
+msgid "days"
+msgstr "dni"
+
+#: framework/shortcodes/countdown.php:51
+msgid "hours"
+msgstr "godziny"
+
+#: framework/shortcodes/countdown.php:61
+msgid "mins"
+msgstr "minuty"
+
+#: framework/shortcodes/countdown.php:71
+msgid "secs"
+msgstr "sekundy"
+
+#: framework/shortcodes/countdown.php:92
+msgid "Year"
+msgstr "Rok"
+
+#: framework/shortcodes/countdown.php:97
+msgid "Month"
+msgstr "Miesiąc"
+
+#: framework/shortcodes/countdown.php:100
+msgid "January"
+msgstr "Styczeń"
+
+#: framework/shortcodes/countdown.php:101
+msgid "February"
+msgstr "Luty"
+
+#: framework/shortcodes/countdown.php:102
+msgid "March"
+msgstr "Marzec"
+
+#: framework/shortcodes/countdown.php:103
+msgid "April"
+msgstr "Kwiecień"
+
+#: framework/shortcodes/countdown.php:104
+msgid "May"
+msgstr "Maj"
+
+#: framework/shortcodes/countdown.php:105
+msgid "June"
+msgstr "Czerwiec"
+
+#: framework/shortcodes/countdown.php:106
+msgid "July"
+msgstr "Lipiec"
+
+#: framework/shortcodes/countdown.php:107
+msgid "August"
+msgstr "Sierpień"
+
+#: framework/shortcodes/countdown.php:108
+msgid "September"
+msgstr "Wrzesień"
+
+#: framework/shortcodes/countdown.php:109
+msgid "October"
+msgstr "Październik"
+
+#: framework/shortcodes/countdown.php:110
+msgid "November"
+msgstr "Listopad"
+
+#: framework/shortcodes/countdown.php:111
+msgid "December"
+msgstr "Grudzień"
+
+#: framework/shortcodes/countdown.php:116
+msgid "Day"
+msgstr "Dzień"
+
+#: framework/shortcodes/countdown.php:121
+msgid "Hour"
+msgstr "Godzina"
+
+#: framework/shortcodes/countdown.php:126
+msgid "Minutes"
+msgstr "Minuta"
+
+#: framework/shortcodes/countdown.php:131
+#: framework/shortcodes/testimonials.php:71
+msgid "Color scheme"
+msgstr "Schemat kolorów"
+
+#: framework/shortcodes/countdown.php:134
+#: framework/shortcodes/testimonials.php:75 framework/theme-options.php:1049
+#: framework/theme-options.php:1091 framework/theme-options.php:1462
+#: framework/theme-options.php:1600
+msgid "Light"
+msgstr "Jasny"
+
+#: framework/shortcodes/countdown.php:135
+#: framework/shortcodes/testimonials.php:74 framework/theme-options.php:446
+#: framework/theme-options.php:462 framework/theme-options.php:490
+#: framework/theme-options.php:760 framework/theme-options.php:1050
+#: framework/theme-options.php:1092 framework/theme-options.php:1461
+#: framework/theme-options.php:1610
+msgid "Dark"
+msgstr "Ciemny"
+
+#: framework/shortcodes/custom-tabs.php:57
+msgid "[8THEME] Tabs"
+msgstr "[8THEME] Zakładki"
+
+#: framework/shortcodes/custom-tabs.php:69
+msgid "Title style"
+msgstr "Styl tytułu"
+
+#: framework/shortcodes/custom-tabs.php:73
+msgid "On hover"
+msgstr "Po najechaniu myszą"
+
+#: framework/shortcodes/custom-tabs.php:79
+#: framework/shortcodes/custom-tabs.php:151 framework/shortcodes/menu.php:98
+#: framework/widgets/menu.php:89
+msgid "Extra class name"
+msgstr "Dodatkowa nazwa klasy"
+
+#: framework/shortcodes/custom-tabs.php:99
+#: framework/shortcodes/custom-tabs.php:100
+#: framework/shortcodes/custom-tabs.php:110 framework/shortcodes/tabs.php:23
+msgid "Tab"
+msgstr "Zakładka"
+
+#: framework/shortcodes/custom-tabs.php:125
+msgid "Enter section title (Note: you can leave it empty)."
+msgstr "Wpisz tytuł sekcji (uwaga: możesz zostawić ją pustą)."
+
+#: framework/shortcodes/custom-tabs.php:129
+msgid "Tab Image"
+msgstr "Obraz zakładki"
+
+#: framework/shortcodes/custom-tabs.php:135
+#: framework/shortcodes/icon-box.php:255
+#: framework/shortcodes/special-offer.php:283
+#: framework/shortcodes/team-member.php:140
+msgid "Image size"
+msgstr "Rozmiar obrazu"
+
+#: framework/shortcodes/custom-tabs.php:146
+msgid "Section ID"
+msgstr "Identyfikator sekcji"
+
+#: framework/shortcodes/custom-tabs.php:147
+#, php-format
+msgid ""
+"Enter section ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+"Wprowadź identyfikator sekcji (uwaga: upewnij się, że jest unikalny i ważny "
+"zgodnie z <a href=\"%s\" target=\"_blank\">w3c specification</a>)."
+
+#: framework/shortcodes/follow.php:145 framework/shortcodes/team-member.php:189
+#: framework/widgets/socials.php:146
+msgid "Facebook link"
+msgstr "Link do Facebooka"
+
+#: framework/shortcodes/follow.php:150 framework/shortcodes/team-member.php:184
+#: framework/widgets/socials.php:147
+msgid "Twitter link"
+msgstr "Link do Twittera"
+
+#: framework/shortcodes/follow.php:155 framework/widgets/socials.php:148
+msgid "Instagram link"
+msgstr "Link do Instagramu"
+
+#: framework/shortcodes/follow.php:160 framework/widgets/socials.php:149
+msgid "Google + link"
+msgstr "Link do Google +"
+
+#: framework/shortcodes/follow.php:165 framework/widgets/socials.php:150
+msgid "Pinterest link"
+msgstr "Link do Printest"
+
+#: framework/shortcodes/follow.php:170 framework/widgets/socials.php:151
+msgid "LinkedIn link"
+msgstr "Link do LinkedIn"
+
+#: framework/shortcodes/follow.php:175 framework/widgets/socials.php:152
+msgid "Tumblr link"
+msgstr "Link do Tumblr"
+
+#: framework/shortcodes/follow.php:180 framework/widgets/socials.php:153
+msgid "YouTube link"
+msgstr "Link do YouTube"
+
+#: framework/shortcodes/follow.php:185 framework/widgets/socials.php:154
+msgid "Vimeo link"
+msgstr "Link do Vimeo"
+
+#: framework/shortcodes/follow.php:190 framework/widgets/socials.php:155
+msgid "RSS link"
+msgstr "Link do RSS"
+
+#: framework/shortcodes/follow.php:195 framework/widgets/socials.php:156
+msgid "VK link"
+msgstr "Link do VK"
+
+#: framework/shortcodes/follow.php:200 framework/widgets/socials.php:157
+msgid "Houzz link"
+msgstr "Link do Houzz"
+
+#: framework/shortcodes/follow.php:205 framework/widgets/socials.php:159
+msgid "Tripadvisor link"
+msgstr "Link do Tripadvisor"
+
+#: framework/shortcodes/follow.php:210 framework/shortcodes/icon-box.php:354
+#: framework/widgets/socials.php:134
+msgid "Size"
+msgstr "Rozmiar"
+
+#: framework/shortcodes/follow.php:213
+msgid "Normal"
+msgstr "Normalny"
+
+#: framework/shortcodes/follow.php:221 framework/shortcodes/icon-box.php:366
+#: framework/shortcodes/menu.php:88 framework/widgets/menu.php:83
+#: framework/widgets/socials.php:140
+msgid "Align"
+msgstr "Wyrównać"
+
+#: framework/shortcodes/follow.php:231 framework/widgets/socials.php:162
+msgid "Colorfull icons"
+msgstr "Kolorowe ikony"
+
+#: framework/shortcodes/follow.php:237
+msgid "Filled icons"
+msgstr "Wypełnione ikony"
+
+#: framework/shortcodes/follow.php:243
+msgid "Links target"
+msgstr "Cel linków"
+
+#: framework/shortcodes/follow.php:246
+msgid "Current window"
+msgstr "Obecne okno"
+
+#: framework/shortcodes/follow.php:247
+msgid "Blank"
+msgstr "Pusty"
+
+#: framework/shortcodes/follow.php:253
+msgid "Icons background"
+msgstr "Tło ikony"
+
+#: framework/shortcodes/follow.php:262
+msgid "Icons color"
+msgstr "Kolor ikon"
+
+#: framework/shortcodes/follow.php:271
+msgid "Icons background hover"
+msgstr "Tło ikon po najechaniu"
+
+#: framework/shortcodes/follow.php:280
+msgid "Icons color hover"
+msgstr "Kolor ikon po najechaniu"
+
+#: framework/shortcodes/icon-box.php:133
+msgid "Icon library"
+msgstr "Biblioteka ikon"
+
+#: framework/shortcodes/icon-box.php:135
+msgid "Font Awesome"
+msgstr "Niesamowite czcionki"
+
+#: framework/shortcodes/icon-box.php:136
+msgid "Open Iconic"
+msgstr "Otwórz ikony"
+
+#: framework/shortcodes/icon-box.php:137
+msgid "Typicons"
+msgstr "Typy ikon"
+
+#: framework/shortcodes/icon-box.php:138
+msgid "Entypo"
+msgstr "Entypy"
+
+#: framework/shortcodes/icon-box.php:139
+msgid "Linecons"
+msgstr "Linie icon"
+
+#: framework/shortcodes/icon-box.php:140
+msgid "Mono Social"
+msgstr "Monospołeczności"
+
+#: framework/shortcodes/icon-box.php:141
+msgid "Upload image"
+msgstr "Załaduj zdjęcie"
+
+#: framework/shortcodes/icon-box.php:145
+msgid "Select icon library."
+msgstr "Wybierz bibliotekę ikon."
+
+#: framework/shortcodes/icon-box.php:149 framework/shortcodes/icon-box.php:166
+#: framework/shortcodes/icon-box.php:182 framework/shortcodes/icon-box.php:198
+#: framework/shortcodes/icon-box.php:213 framework/shortcodes/icon-box.php:229
+#: framework/shortcodes/icon-box.php:245 framework/shortcodes/tabs.php:37
+#: framework/theme-options.php:68
+msgid "Icon"
+msgstr "Ikona"
+
+#: framework/shortcodes/icon-box.php:162 framework/shortcodes/icon-box.php:178
+#: framework/shortcodes/icon-box.php:194 framework/shortcodes/icon-box.php:225
+#: framework/shortcodes/icon-box.php:241
+msgid "Select icon from library."
+msgstr "Wybierz ikonę z biblioteki."
+
+#: framework/shortcodes/icon-box.php:251
+msgid "Select icon from media library."
+msgstr "Wybierz ikonę z biblioteki mediów."
+
+#: framework/shortcodes/icon-box.php:265
+msgid "Icon color"
+msgstr "Kolor ikon"
+
+#: framework/shortcodes/icon-box.php:270
+msgid "Icon background color"
+msgstr "Kolor tła ikony"
+
+#: framework/shortcodes/icon-box.php:275
+msgid "Icon color (hover)"
+msgstr "Kolor ikony (najechanie)"
+
+#: framework/shortcodes/icon-box.php:280
+msgid "Icon background color (hover)"
+msgstr "Kolor tła ikony (najechanie)"
+
+#: framework/shortcodes/icon-box.php:296
+msgid "Position of the icon"
+msgstr "Pozycja ikony"
+
+#: framework/shortcodes/icon-box.php:345
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2407
+msgid "Active"
+msgstr "Aktywny"
+
+#: framework/shortcodes/icon-box.php:346
+msgid "Border"
+msgstr "Granica"
+
+#: framework/shortcodes/icon-box.php:347 framework/theme-options.php:447
+#: framework/theme-options.php:463 framework/theme-options.php:491
+#: framework/theme-options.php:761 framework/theme-options.php:1609
+msgid "White"
+msgstr "Biały"
+
+#: framework/shortcodes/icon-box.php:348
+msgid "Black"
+msgstr "Czarny"
+
+#: framework/shortcodes/icon-box.php:386 framework/shortcodes/title.php:180
+#: framework/shortcodes/twitter.php:122
+msgid "Design"
+msgstr "Projekt"
+
+#: framework/shortcodes/instagram.php:62
+#: framework/widgets/wp-instagram-widget.php:220
+msgid "Username or hashtag"
+msgstr "Nazwa użytkownika lub hashtag"
+
+#: framework/shortcodes/instagram.php:67
+msgid "Numer of photos"
+msgstr "Liczba zdjęć"
+
+#: framework/shortcodes/instagram.php:72
+#: framework/widgets/wp-instagram-widget.php:222
+msgid "Photo size"
+msgstr "Rozmiar zdjęcia"
+
+#: framework/shortcodes/instagram.php:75
+#: framework/widgets/wp-instagram-widget.php:224 framework/woo/brands.php:57
+#: framework/woo/brands.php:133
+msgid "Thumbnail"
+msgstr "Miniaturka"
+
+#: framework/shortcodes/instagram.php:76
+#: framework/widgets/wp-instagram-widget.php:225
+msgid "Medium"
+msgstr "Średni"
+
+#: framework/shortcodes/instagram.php:94
+#: framework/widgets/wp-instagram-widget.php:229
+msgid "Open links in"
+msgstr "Otwórz linki w"
+
+#: framework/shortcodes/instagram.php:97
+#: framework/widgets/wp-instagram-widget.php:231
+msgid "Current window (_self)"
+msgstr "Obecne okno (_self)"
+
+#: framework/shortcodes/instagram.php:98
+#: framework/widgets/wp-instagram-widget.php:232
+msgid "New window (_blank)"
+msgstr "Nowe okno (_blank)"
+
+#: framework/shortcodes/instagram.php:103
+#: framework/widgets/wp-instagram-widget.php:242
+msgid "Link text"
+msgstr "Tekst linku"
+
+#: framework/shortcodes/instagram.php:116
+#: framework/widgets/wp-instagram-widget.php:246
+msgid "Without spacing"
+msgstr "Bez odstępów"
+
+#: framework/shortcodes/menu.php:82 framework/shortcodes/team-member.php:157
+msgid "Vertical"
+msgstr "Pionowy"
+
+#: framework/shortcodes/menu.php:83 framework/shortcodes/team-member.php:158
+msgid "Horizontal"
+msgstr "Poziomy"
+
+#: framework/shortcodes/post-meta.php:33 framework/template-elements.php:207
+msgid "at"
+msgstr "w"
+
+#: framework/shortcodes/post-meta.php:38 framework/template-elements.php:211
+#: framework/widgets/recent-comments.php:70
+#: vc_templates/post_block/_item.php:13
+msgid "by"
+msgstr "przez"
+
+#: framework/shortcodes/post-meta.php:51 framework/shortcodes/post-meta.php:53
+#: framework/template-elements.php:221 framework/template-elements.php:223
+#: framework/template-elements.php:238 framework/template-elements.php:240
+msgid "comments"
+msgstr "komentarze"
+
+#: framework/shortcodes/post-meta.php:52 framework/template-elements.php:222
+#: framework/template-elements.php:239
+msgid "comment"
+msgstr "komentarz"
+
+#: framework/shortcodes/products.php:192 framework/widgets/products.php:48
+msgid "Random"
+msgstr "Losowy"
+
+#: framework/shortcodes/products.php:193
+msgid "Comment count"
+msgstr "Liczba komentarzy"
+
+#: framework/shortcodes/products.php:194
+msgid "Menu order"
+msgstr "Kolejność menu"
+
+#: framework/shortcodes/products.php:195 framework/theme-options.php:2003
+#: framework/widgets/products.php:47 woocommerce/cart/cart.php:25
+#: woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr "Cena"
+
+#: framework/shortcodes/products.php:224
+msgid "Product IDs"
+msgstr "Identyfikator produktu"
+
+#: framework/shortcodes/products.php:232
+msgid "Add products by title."
+msgstr "Dodaj produkty według tytułu."
+
+#: framework/shortcodes/products.php:236
+#: framework/shortcodes/team-member.php:153
+msgid "Display Type"
+msgstr "Typ wyświetlania"
+
+#: framework/shortcodes/products.php:241 framework/theme-options.php:2200
+#: framework/woo.php:595 framework/woo.php:599
+msgid "List"
+msgstr "Lista"
+
+#: framework/shortcodes/products.php:242
+msgid "Full screen"
+msgstr "Pełny ekran"
+
+#: framework/shortcodes/products.php:253
+msgid "Catalog image size"
+msgstr "Rozmiar obrazu w katalogu"
+
+#: framework/shortcodes/products.php:254
+msgid "Single product image size"
+msgstr "Rozmiar pojedynczego obrazu produktu"
+
+#: framework/shortcodes/products.php:259
+msgid "Remove space between slides"
+msgstr "Usuń przestrzeń między sliderami"
+
+#: framework/shortcodes/products.php:284 framework/shortcodes/the-look.php:328
+msgid "Product View"
+msgstr "Widok produktu"
+
+#: framework/shortcodes/products.php:300 framework/shortcodes/the-look.php:338
+msgid "Product View Color"
+msgstr "Kolor widoku produktu"
+
+#: framework/shortcodes/products.php:310
+msgid "Product layout for this slider"
+msgstr "Układ produktu dla slidera"
+
+#: framework/shortcodes/products.php:313 framework/theme-options.php:379
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: framework/shortcodes/products.php:317
+msgid "Products type"
+msgstr "Rodzaj produktu"
+
+#: framework/shortcodes/products.php:319 framework/woo.php:698
+msgid "All"
+msgstr "Wszystkie"
+
+#: framework/shortcodes/products.php:319 framework/theme-options.php:1362
+#: framework/walkers.php:104
+msgid "Sale"
+msgstr "Wyprzedaż"
+
+#: framework/shortcodes/products.php:319
+msgid "Recently viewed"
+msgstr "Ostatnio oglądane"
+
+#: framework/shortcodes/products.php:319
+msgid "Bestsellings"
+msgstr "Najlepiej sprzedający się"
+
+#: framework/shortcodes/products.php:323
+msgid "Show sale counter"
+msgstr "Pokaż licznik sprzedaży"
+
+#: framework/shortcodes/products.php:348
+msgid "Use \"-1\" to show all products."
+msgstr "Użyj \"-1\", aby wyświetlić wszystkie produkty."
+
+#: framework/shortcodes/products.php:352
+msgid "Categories or tags"
+msgstr "Kategorie lub tagi"
+
+#: framework/shortcodes/special-offer.php:173 framework/theme-options.php:1945
+#: woocommerce/content-product-slider.php:175
+#: woocommerce/content-product-slider.php:184
+#: woocommerce/content-product-slider.php:268
+#: woocommerce/content-product.php:175 woocommerce/content-product.php:184
+#: woocommerce/content-product.php:273
+msgid "Quick View"
+msgstr "Szybki podgląd"
+
+#: framework/shortcodes/special-offer.php:178
+#: woocommerce/content-product-slider.php:172
+#: woocommerce/content-product-slider.php:187
+#: woocommerce/content-product-slider.php:271
+#: woocommerce/content-product.php:172 woocommerce/content-product.php:187
+#: woocommerce/content-product.php:276
+msgid "Wishlist"
+msgstr "Ulubione"
+
+#: framework/shortcodes/special-offer.php:259
+#: framework/shortcodes/special-offer.php:273
+#: framework/shortcodes/the-look.php:226 woocommerce/cart/cart.php:24
+#: woocommerce/cart/cart.php:45
+msgid "Product"
+msgstr "Produkt"
+
+#: framework/shortcodes/special-offer.php:298 framework/vc.php:82
+msgid "Slider speed"
+msgstr "Szybkość slidera"
+
+#: framework/shortcodes/special-offer.php:304
+#: framework/shortcodes/special-offer.php:314
+#: framework/shortcodes/special-offer.php:325
+#: framework/shortcodes/special-offer.php:336
+#: framework/shortcodes/special-offer.php:351
+#: framework/shortcodes/special-offer.php:366
+#: framework/shortcodes/special-offer.php:377 framework/vc.php:84
+#: framework/vc.php:90 framework/vc.php:98 framework/vc.php:106
+#: framework/vc.php:121 framework/vc.php:136 framework/vc.php:147
+#: framework/vc.php:154 framework/vc.php:160 framework/vc.php:166
+#: framework/vc.php:172 framework/vc.php:178
+msgid "Slider settings"
+msgstr "Ustawienia slidera"
+
+#: framework/shortcodes/special-offer.php:308 framework/vc.php:88
+msgid "Slider autoplay"
+msgstr "Autoodtwarzanie slidera"
+
+#: framework/shortcodes/special-offer.php:319 framework/vc.php:96
+msgid "Hide prev/next buttons"
+msgstr "Ukryj przycisk poprzednia/następna"
+
+#: framework/shortcodes/special-offer.php:330 framework/vc.php:104
+msgid "Pagination type"
+msgstr "Typ paginacji"
+
+#: framework/shortcodes/special-offer.php:338
+#: framework/shortcodes/testimonials.php:65 framework/vc.php:108
+msgid "Hide"
+msgstr "Ukryj"
+
+#: framework/shortcodes/special-offer.php:339 framework/vc.php:109
+msgid "Bullets"
+msgstr "Pociski"
+
+#: framework/shortcodes/special-offer.php:340 framework/vc.php:110
+msgid "Lines"
+msgstr "Linie"
+
+#: framework/shortcodes/special-offer.php:345 framework/vc.php:115
+msgid "Hide pagination only for"
+msgstr "Ukryj paginację tylko dla"
+
+#: framework/shortcodes/special-offer.php:354 framework/vc.php:124
+msgid "Mobile"
+msgstr "Mobilnie"
+
+#: framework/shortcodes/special-offer.php:355 framework/vc.php:125
+msgid "Desktop"
+msgstr "Desktop"
+
+#: framework/shortcodes/special-offer.php:360 framework/vc.php:130
+msgid "Pagination default color"
+msgstr "Domyślny kolor paginacji"
+
+#: framework/shortcodes/special-offer.php:371 framework/vc.php:141
+msgid "Pagination active color"
+msgstr "Aktywny kolor paginacji"
+
+#: framework/shortcodes/tabs.php:12 framework/theme-options.php:1865
+msgid "Tabs type"
+msgstr "Typ zakładek"
+
+#: framework/shortcodes/tabs.php:15
+msgid "Products Tabs"
+msgstr "Karty produktów"
+
+#: framework/shortcodes/tabs.php:16
+msgid "Left bar"
+msgstr "Lewy pasek"
+
+#: framework/shortcodes/tabs.php:17
+msgid "Right bar"
+msgstr "Prawy pasek"
+
+#: framework/shortcodes/tabs.php:33
+msgid "Tab title."
+msgstr "Tytuł karty."
+
+#: framework/shortcodes/tabs.php:42
+msgid "Tab ID"
+msgstr "Identyfikator karty"
+
+#: framework/shortcodes/team-member.php:90
+msgid "Email:"
+msgstr "Email:"
+
+#: framework/shortcodes/team-member.php:120
+msgid "Member name"
+msgstr "Nazwa członka"
+
+#: framework/shortcodes/team-member.php:125
+msgid "Member email"
+msgstr "Email członka"
+
+#: framework/shortcodes/team-member.php:130
+msgid "Position"
+msgstr "Pozycja"
+
+#: framework/shortcodes/team-member.php:135
+msgid "Avatar"
+msgstr "Avatar"
+
+#: framework/shortcodes/team-member.php:147
+msgid "Member information"
+msgstr "Informacje o członku"
+
+#: framework/shortcodes/team-member.php:149
+msgid "Member description"
+msgstr "Opis członka"
+
+#: framework/shortcodes/team-member.php:163
+msgid "Content position"
+msgstr "Pozycja treści"
+
+#: framework/shortcodes/team-member.php:174
+msgid "Image position"
+msgstr "Pozycja obrazu"
+
+#: framework/shortcodes/team-member.php:194
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: framework/shortcodes/team-member.php:199
+msgid "Skype name"
+msgstr "Skype"
+
+#: framework/shortcodes/team-member.php:204
+#: framework/widgets/wp-instagram-widget.php:54
+#: framework/widgets/wp-instagram-widget.php:207
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/shortcodes/testimonials.php:25
+msgid "How many testimonials to show? Enter number."
+msgstr "Ile referencji do pokazania? Wpisz numer."
+
+#: framework/shortcodes/testimonials.php:34
+msgid "Slider with grid"
+msgstr "Slider z siatką"
+
+#: framework/shortcodes/testimonials.php:40
+msgid "Interval"
+msgstr "Interwał"
+
+#: framework/shortcodes/testimonials.php:42
+msgid "Interval between slides. In milliseconds. Default: 10000"
+msgstr "Odstęp między sliderami. W milisekundach. Domyślnie: 10000"
+
+#: framework/shortcodes/testimonials.php:47
+msgid "Slider columns"
+msgstr "Kolumny slidera"
+
+#: framework/shortcodes/testimonials.php:60
+msgid "Show Control Navigation"
+msgstr "Pokaż nawigację sterowania"
+
+#: framework/shortcodes/testimonials.php:66 framework/widgets/products.php:34
+#: framework/woo.php:689
+msgid "Show"
+msgstr "Pokaż"
+
+#: framework/shortcodes/testimonials.php:80
+#: woocommerce/content-product_cat.php:83
+msgid "Category"
+msgstr "Kategoria"
+
+#: framework/shortcodes/testimonials.php:82
+msgid "Display testimonials from category."
+msgstr "Wyświetl referencje z kategorii."
+
+#: framework/shortcodes/the-look.php:306
+msgid "Columns number"
+msgstr "Liczba kolumn"
+
+#: framework/shortcodes/the-look.php:420 framework/shortcodes/the-look.php:427
+#: framework/shortcodes/the-look.php:433 framework/shortcodes/the-look.php:440
+#: framework/shortcodes/the-look.php:447 framework/shortcodes/the-look.php:453
+#: framework/shortcodes/the-look.php:460 framework/shortcodes/the-look.php:467
+#: framework/shortcodes/the-look.php:474 framework/shortcodes/the-look.php:484
+msgid "Banner"
+msgstr "Banner"
+
+#: framework/shortcodes/the-look.php:444
+msgid "Banner position"
+msgstr "Pozycja banera"
+
+#: framework/shortcodes/the-look.php:446
+msgid "Banner position number. From 1 to number of products."
+msgstr "Numer pozycji banera. Od 1 do liczby produktów."
+
+#: framework/shortcodes/the-look.php:451
+msgid "Banner double size"
+msgstr "Podwójny rozmiar banera"
+
+#: framework/shortcodes/the-look.php:476 framework/shortcodes/title.php:183
+msgid "Design 1"
+msgstr "Projekt 1"
+
+#: framework/shortcodes/the-look.php:477 framework/shortcodes/title.php:184
+msgid "Design 2"
+msgstr "Projekt 2"
+
+#: framework/shortcodes/the-look.php:491
+msgid "Design for product images"
+msgstr "Projekt dla obrazów produktów"
+
+#: framework/shortcodes/title.php:170
+msgid "Divider"
+msgstr "Rozdzielacz"
+
+#: framework/shortcodes/title.php:174
+msgid "Short"
+msgstr "Krótki"
+
+#: framework/shortcodes/title.php:189
+msgid "Text align"
+msgstr "Wyrównanie tekstu"
+
+#: framework/shortcodes/twitter.php:23
+msgid "Not enough information"
+msgstr "Brak wystarczających informacji"
+
+#: framework/shortcodes/twitter.php:92
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: framework/shortcodes/twitter.php:97
+msgid "Customer Key"
+msgstr "Klucz klienta"
+
+#: framework/shortcodes/twitter.php:102
+msgid "Customer Secret"
+msgstr "Sekret klienta"
+
+#: framework/shortcodes/twitter.php:107
+msgid "Access Token"
+msgstr "Token dostępu"
+
+#: framework/shortcodes/twitter.php:112
+msgid "Access Token Secret"
+msgstr "Uzyskaj dostęp do tokenu tajnego klucza"
+
+#: framework/shortcodes/twitter.php:117
+msgid "Number of tweets"
+msgstr "Liczba tweetów"
+
+#: framework/sidebars.php:172
+msgid "Main Sidebar"
+msgstr "Główny pasek boczny"
+
+#: framework/sidebars.php:174
+msgid "The main sidebar area"
+msgstr "Główny obszar paska bocznego"
+
+#: framework/sidebars.php:182
+msgid "Left side top bar area"
+msgstr "Lewa górna część paska"
+
+#: framework/sidebars.php:184
+msgid ""
+"Can be used for placing languages switcher of some contacts information."
+msgstr ""
+"Może być używany do przełączania języków niektórych informacji o kontaktach."
+
+#: framework/sidebars.php:192
+msgid "Right side top bar area"
+msgstr "Prawa górna część paska"
+
+#: framework/sidebars.php:201
+msgid "Mobile sidebar area"
+msgstr "Mobilny obszar paska bocznego"
+
+#: framework/sidebars.php:210
+msgid "Top panel"
+msgstr "Górny panel"
+
+#: framework/sidebars.php:220
+msgid "Shop Sidebar"
+msgstr "Pasek boczny sklepu"
+
+#: framework/sidebars.php:222
+msgid "Shop page widget area"
+msgstr "Zajrzyj do obszaru widgetów strony"
+
+#: framework/sidebars.php:230
+msgid "Shop filters"
+msgstr "Filtry sklepu"
+
+#: framework/sidebars.php:232
+msgid "Widget area that appears above the products on Shop page"
+msgstr "Obszar widżetu nad produktami na stronie sklepu"
+
+#: framework/sidebars.php:240
+msgid "After the products"
+msgstr "Po produktach"
+
+#: framework/sidebars.php:242
+msgid "Widget area that appears after the products on Shop page"
+msgstr "Obszar widżetu, który pojawia się po produktach na stronie sklepu"
+
+#: framework/sidebars.php:250
+msgid "Single product page Sidebar"
+msgstr "Boczny pasek strony pojedynczego produktu"
+
+#: framework/sidebars.php:252
+msgid "Single product page widget area"
+msgstr "Obszar widgetów pojedynczego produktu"
+
+#: framework/sidebars.php:259
+msgid "Cart area"
+msgstr "Obszar koszyka"
+
+#: framework/sidebars.php:261
+msgid "Widget area that appears on the shopping cart page"
+msgstr "Obszar widgetu, który pojawia się na stronie koszyka"
+
+#: framework/sidebars.php:270
+msgid "Pre Footer Area"
+msgstr "Obszar przedstopki"
+
+#: framework/sidebars.php:272
+msgid "The prefooter footer area"
+msgstr "Obszar przedstopki"
+
+#: framework/sidebars.php:289
+msgid "The main footer widgets area"
+msgstr "Główny obszar widgetów stopki"
+
+#: framework/sidebars.php:298
+msgid "Footer Copyrights Left"
+msgstr "Lewa strona stopki Copyrights"
+
+#: framework/sidebars.php:300
+msgid "Footer area for copyrights"
+msgstr "Obszar stopki Copyrights"
+
+#: framework/sidebars.php:308
+msgid "Footer Copyrights Right"
+msgstr "Prawa strona stopki Copyrights"
+
+#: framework/sidebars.php:310
+msgid "Footer area for copyrights right"
+msgstr "Obszar prawej strony stopki Copyrights"
+
+#: framework/template-elements.php:168 vc_templates/post_block/_item.php:33
+msgid "Read more"
+msgstr "Czytaj dalej"
+
+#: framework/template-elements.php:229
+msgid "Posted by"
+msgstr "Wysłane przez"
+
+#: framework/template-elements.php:339 framework/template-elements.php:407
+#: framework/template-elements.php:469
+msgid "Set your main menu in"
+msgstr "Ustaw swoje główne menu w"
+
+#: framework/template-elements.php:339 framework/template-elements.php:407
+#: framework/template-elements.php:469
+msgid "Appearance &gt; Menus"
+msgstr "Wygląd &gt; Menu"
+
+#: framework/template-elements.php:557 framework/template-elements.php:563
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: framework/template-elements.php:586
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Oceniono %d poniżej 5"
+
+#: framework/template-elements.php:587
+msgid "out of 5"
+msgstr "poniżej 5"
+
+#: framework/template-elements.php:599
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na moderację."
+
+#: framework/template-elements.php:603
+msgid "Reply to comment"
+msgstr "Odpowiedz na komentarz"
+
+#: framework/template-elements.php:804
+#: woocommerce/single-product-content-center.php:24
+#: woocommerce/single-product-content-fixed.php:19
+#: woocommerce/single-product-content-fixed.php:59
+#: woocommerce/single-product-content.php:49
+msgid "Share Social"
+msgstr "Udostępnij społeczność"
+
+#: framework/template-elements.php:1027
+msgid "Home"
+msgstr "Strona główna"
+
+#: framework/template-elements.php:1028 framework/theme-functions.php:213
+msgid "Blog"
+msgstr "Blog"
+
+#: framework/template-elements.php:1057
+msgid "Archive by category "
+msgstr "Archiwum według kategorii "
+
+#: framework/template-elements.php:1060
+msgid "Search results for "
+msgstr "Wyniki wyszukiwania dla "
+
+#: framework/template-elements.php:1150 framework/theme-options.php:1168
+msgid "Page"
+msgstr "Strona"
+
+#: framework/template-elements.php:1165
+msgid "Return to previous page"
+msgstr "Powrót do poprzedniej strony"
+
+#: framework/theme-functions.php:194
+#, php-format
+msgid "Page %s"
+msgstr "Strona %s"
+
+#: framework/theme-functions.php:208
+msgid "Page not found"
+msgstr "Strona nie znaleziona"
+
+#: framework/theme-functions.php:225
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+#: framework/theme-functions.php:231
+#, php-format
+msgid "All posts by %s"
+msgstr "Wszystkie wpisy przez %s"
+
+#: framework/theme-functions.php:234
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dzienne archiwa: %s"
+
+#: framework/theme-functions.php:237
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Miesięczne archiwa: %s"
+
+#: framework/theme-functions.php:237
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: framework/theme-functions.php:240
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Roczne archiwa: %s"
+
+#: framework/theme-functions.php:240
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: framework/theme-functions.php:243
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archiwa tagów: %s"
+
+#: framework/theme-functions.php:246
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archiwa kategorii: %s"
+
+#: framework/theme-functions.php:249
+msgid "Asides"
+msgstr "Boki"
+
+#: framework/theme-functions.php:252
+msgid "Videos"
+msgstr "Video"
+
+#: framework/theme-functions.php:255
+msgid "Audio"
+msgstr "Audio"
+
+#: framework/theme-functions.php:258
+msgid "Quotes"
+msgstr "Cytaty"
+
+#: framework/theme-functions.php:261
+msgid "Galleries"
+msgstr "Galerie"
+
+#: framework/theme-functions.php:267
+msgid "Forums"
+msgstr "Fora"
+
+#: framework/theme-functions.php:270
+msgid "Archives"
+msgstr "Archiwa"
+
+#: framework/theme-functions.php:418
+msgid "My Account"
+msgstr "Moje konto"
+
+#: framework/theme-functions.php:431
+msgid "Sign In"
+msgstr "Zaloguj się"
+
+#: framework/theme-functions.php:431
+msgid "Sign In or Create an account"
+msgstr "Logowanie/Rejestracja"
+
+#: framework/theme-functions.php:445
+msgid "Register"
+msgstr "Zarejestrować"
+
+#: framework/theme-functions.php:582
+msgid "Continue reading"
+msgstr "Czytaj dalej"
+
+#: framework/theme-functions.php:707
+msgid "Your Comment"
+msgstr "Twój komentarz"
+
+#: framework/theme-functions.php:707
+msgid "Comment"
+msgstr "Komentarz"
+
+#: framework/theme-functions.php:725
+msgid "Your name (required)"
+msgstr "Twoje imię (wymagane)"
+
+#: framework/theme-functions.php:728
+msgid "Email"
+msgstr "Email"
+
+#: framework/theme-functions.php:729
+msgid "Your email (required)"
+msgstr "Twoje email (wymagany)"
+
+#: framework/theme-functions.php:732
+msgid "Website"
+msgstr "Strona internetowa"
+
+#: framework/theme-functions.php:733
+msgid "Your website"
+msgstr "Twoja strona internetowa"
+
+#: framework/theme-functions.php:932
+msgid "Products found"
+msgstr "Produkty znalezione"
+
+#: framework/theme-functions.php:932 framework/theme-functions.php:1036
+msgid "View all"
+msgstr "Pokaż wszystkie"
+
+#: framework/theme-functions.php:1036
+msgid "Posts found"
+msgstr "Wpisy znalezione"
+
+#: framework/theme-functions.php:1045
+msgid "No results were found"
+msgstr "Brak wyników wyszukiwania"
+
+#: framework/theme-functions.php:1046
+msgid ""
+"We invite you to get acquainted with an assortment of our site. Surely you "
+"can find something for yourself!"
+msgstr ""
+"Zapraszamy do zapoznania się z asortymentem naszej strony. Na pewno "
+"znajdziesz coś dla siebie!"
+
+#: framework/theme-functions.php:1159
+msgid "Can't login with Facebook. Please, try again later."
+msgstr "Nie można zalogować się za pomocą Facebooka. Spróbuj ponownie później."
+
+#: framework/theme-functions.php:1166
+msgid "Facebook doesn't provide your email. Try to register manually."
+msgstr ""
+"Facebook nie udostępnia Twojego adresu e-mail. Spróbuj zarejestrować się "
+"ręcznie."
+
+#: framework/theme-functions.php:1185
+#, php-format
+msgid "You are now logged in as <strong>%s</strong>"
+msgstr "Jesteś teraz zalogowany jako <strong>%s</strong>"
+
+#: framework/theme-functions.php:1213
+msgid "Login / Register with Facebook"
+msgstr "Zaloguj / Zarejestruj się za pomocą Facebooka"
+
+#: framework/theme-functions.php:1535
+msgid "Related posts"
+msgstr "Powiązane wpisy"
+
+#: framework/theme-functions.php:1709
+msgid "Showing"
+msgstr "Pojawiające się"
+
+#: framework/theme-functions.php:1712
+msgid "the single result"
+msgstr "pojedynczy wynik"
+
+#: framework/theme-functions.php:1714
+msgid "all"
+msgstr "wszystko"
+
+#: framework/theme-functions.php:1714
+msgid "posts"
+msgstr "wpisy"
+
+#: framework/theme-functions.php:1716
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid " %1$d&ndash;%2$d %4$s %3$d posts"
+msgstr " %1$d&ndash;%2$d %4$s %3$d wpisów"
+
+#: framework/theme-functions.php:1716
+msgid "of"
+msgstr "z"
+
+#: framework/theme-init.php:29
+msgid "No results were found!"
+msgstr "Brak wyników wyszukiwania!"
+
+#: framework/theme-init.php:30
+msgid "Product added."
+msgstr "Produkt dodany."
+
+#: framework/theme-init.php:31
+msgid "Please check your cart."
+msgstr "Sprawdź swój koszyk."
+
+#: framework/theme-init.php:33
+msgid "Continue shopping"
+msgstr "Kontynuuj zakupy"
+
+#: framework/theme-init.php:34 framework/woo.php:1144
+msgid "Checkout"
+msgstr "Zapłać"
+
+#: framework/theme-init.php:35
+msgid "Back"
+msgstr "Wstecz"
+
+#: framework/theme-options.php:65
+msgid "Wishlist type"
+msgstr "Rodzaj listy życzeń"
+
+#: framework/theme-options.php:66 framework/theme-options.php:79
+msgid "Only for \"Use shortcode\" wislist position"
+msgstr "Tylko dla pozycji \"Użyj skrótu\" na liście życzeń"
+
+#: framework/theme-options.php:69
+msgid "Icon + text"
+msgstr "Ikona + tekst"
+
+#: framework/theme-options.php:78
+msgid "Wishlist position"
+msgstr "Pozycja listy ulubionych"
+
+#: framework/theme-options.php:81
+msgid "After \"add to cart\" button"
+msgstr "Przycisk po Dodaj do koszyka"
+
+#: framework/theme-options.php:82
+msgid "Under \"add to cart\" button"
+msgstr "Przycisk przed Dodaj do koszyka"
+
+#: framework/theme-options.php:124
+msgid "Theme Activated"
+msgstr "Motyw aktywowany"
+
+#: framework/theme-options.php:132 framework/theme-options.php:133
+msgid "8Theme Options"
+msgstr "8Theme opcje"
+
+#: framework/theme-options.php:250
+msgid "General"
+msgstr "Ogólne"
+
+#: framework/theme-options.php:257 framework/theme-options.php:1528
+msgid "Layout"
+msgstr "Układ"
+
+#: framework/theme-options.php:266
+msgid "Site Layout"
+msgstr "Układ strony"
+
+#: framework/theme-options.php:268
+msgid "Wide layout"
+msgstr "Szeroki układ"
+
+#: framework/theme-options.php:269
+msgid "Boxed"
+msgstr "Pudełkowy"
+
+#: framework/theme-options.php:270 framework/theme-options.php:2208
+#: framework/theme-options.php:2400
+msgid "Framed"
+msgstr "Oprawiony"
+
+#: framework/theme-options.php:271
+msgid "Bordered"
+msgstr "Graniczny"
+
+#: framework/theme-options.php:278
+msgid "Site width"
+msgstr "Szerokość witryny"
+
+#: framework/theme-options.php:288
+msgid "Use site preloader"
+msgstr "Użyj preloadera witryny"
+
+#: framework/theme-options.php:295 framework/theme-options.php:506
+#: framework/theme-options.php:512 framework/theme-options.php:1417
+#: framework/theme-options.php:1859
+msgid "Upload image: png, jpg or gif file"
+msgstr "Załaduj plik obrazu: png, jpg lub gif"
+
+#: framework/theme-options.php:296
+msgid "Preloader image"
+msgstr "Obraz wstępnego ładowania"
+
+#: framework/theme-options.php:303
+msgid "Support chat"
+msgstr "Czat pomocy technicznej"
+
+#: framework/theme-options.php:305
+msgid "You support expired. To renew go to "
+msgstr "Twoja pomoc wygasła. Aby odnowić, przejdź do "
+
+#: framework/theme-options.php:305
+msgid "ThemeForest"
+msgstr "ThemeForest"
+
+#: framework/theme-options.php:311
+msgid "Enable static blocks"
+msgstr "Włącz statyczne bloki"
+
+#: framework/theme-options.php:317
+msgid "Portfolio projects"
+msgstr "Projekty portfolio"
+
+#: framework/theme-options.php:323
+msgid "Testimonials"
+msgstr "Referencje"
+
+#: framework/theme-options.php:336 framework/theme-options.php:344
+msgid "Header Type"
+msgstr "Typ nagłówka"
+
+#: framework/theme-options.php:347
+msgid "Variant xstore"
+msgstr "Wariant xstore"
+
+#: framework/theme-options.php:351
+msgid "Variant xstore2"
+msgstr "Wariant xstore2"
+
+#: framework/theme-options.php:355
+msgid "Variant center"
+msgstr "Wariant centralny"
+
+#: framework/theme-options.php:359
+msgid "Variant center 2"
+msgstr "Wariant centralny 2"
+
+#: framework/theme-options.php:363
+msgid "Variant center 3"
+msgstr "Wariant centralny 3"
+
+#: framework/theme-options.php:367
+msgid "Variant standard"
+msgstr "Wariant standardowy"
+
+#: framework/theme-options.php:371
+msgid "Double menu"
+msgstr "Podwójne menu"
+
+#: framework/theme-options.php:375
+msgid "Two rows"
+msgstr "Dwa rzędy"
+
+#: framework/theme-options.php:383
+msgid "Variant simple"
+msgstr "Wariant prosty"
+
+#: framework/theme-options.php:387
+msgid "Variant hamburger"
+msgstr "Wariant hamburger"
+
+#: framework/theme-options.php:391
+msgid "Variant vertical"
+msgstr "Wariant pionowy"
+
+#: framework/theme-options.php:395
+msgid "Variant vertical 2"
+msgstr "Wariant pionowy 2"
+
+#: framework/theme-options.php:405
+msgid "Header Settings"
+msgstr "Ustawienia nagłówka"
+
+#: framework/theme-options.php:413
+msgid "Header wide"
+msgstr "Nagłówek szeroki"
+
+#: framework/theme-options.php:419
+msgid "Header maximum width"
+msgstr "Maksymalna szerokość nagłówka"
+
+#: framework/theme-options.php:432
+msgid "Fixed header"
+msgstr "Nagłówek naprawiony"
+
+#: framework/theme-options.php:438
+msgid "Header overlaps the content"
+msgstr "Nagłówek pokrywa się z treścią"
+
+#: framework/theme-options.php:444
+msgid "Header text color"
+msgstr "Kolor tekstu nagłówka"
+
+#: framework/theme-options.php:454
+msgid "Header background"
+msgstr "Tło nagłówka"
+
+#: framework/theme-options.php:460
+msgid "Fixed header text color"
+msgstr "Kolor tekstu nagłówka naprawiony"
+
+#: framework/theme-options.php:470
+msgid "Fixed header background"
+msgstr "Tło nagłówka naprawione"
+
+#: framework/theme-options.php:476
+msgid "Enable top bar"
+msgstr "Włącz górny panel"
+
+#: framework/theme-options.php:482
+msgid "Top bar background"
+msgstr "Tło górnego panela"
+
+#: framework/theme-options.php:488
+msgid "Top bar text color"
+msgstr "Kolor tekstu górnego panela"
+
+#: framework/theme-options.php:498
+msgid "Header custom HTML"
+msgstr "Standardowy nagłówek HTML"
+
+#: framework/theme-options.php:507
+msgid "Logo image"
+msgstr "Obraz logo"
+
+#: framework/theme-options.php:513
+msgid "Logo image for fixed header"
+msgstr "Obraz logo dla poprawionego nagłówka"
+
+#: framework/theme-options.php:518
+msgid "Logo max width"
+msgstr "Maksymalna szerokość logo"
+
+#: framework/theme-options.php:528
+msgid "Wishlist icon position"
+msgstr "Pozycja ikony ulubione"
+
+#: framework/theme-options.php:530 framework/theme-options.php:548
+#: framework/theme-options.php:1303
+msgid "Header"
+msgstr "Nagłówek"
+
+#: framework/theme-options.php:531 framework/theme-options.php:549
+#: framework/theme-options.php:1304
+msgid "Top bar left"
+msgstr "Lewy górny panel"
+
+#: framework/theme-options.php:532 framework/theme-options.php:550
+#: framework/theme-options.php:1305
+msgid "Top bar right"
+msgstr "Prawy górny panel"
+
+#: framework/theme-options.php:533 framework/theme-options.php:551
+#: framework/theme-options.php:721 framework/theme-options.php:1306
+#: framework/theme-options.php:1582 framework/theme-options.php:1593
+#: framework/theme-options.php:1870
+msgid "Disable"
+msgstr "Wyłączony"
+
+#: framework/theme-options.php:540
+msgid "Enable Sign In link"
+msgstr "Włącz link logowania"
+
+#: framework/theme-options.php:546
+msgid "Enable search form in"
+msgstr "Włącz formularz wyszukiwania w"
+
+#: framework/theme-options.php:558
+msgid "AJAX Search"
+msgstr "Wyszukiwarka AJAX"
+
+#: framework/theme-options.php:567
+msgid "Search by posts"
+msgstr "Szukaj według wpisów"
+
+#: framework/theme-options.php:576
+msgid "Search by products"
+msgstr "Szukaj produktów"
+
+#: framework/theme-options.php:585
+msgid "Search by sku"
+msgstr "Szukaj po SKU"
+
+#: framework/theme-options.php:594
+msgid "Enable top panel"
+msgstr "Włącz górny panel"
+
+#: framework/theme-options.php:600
+msgid "Shopping cart icon"
+msgstr "Ikona koszyka w sklepie"
+
+#: framework/theme-options.php:621
+msgid "Icon with background"
+msgstr "Ikona z tłem"
+
+#: framework/theme-options.php:627
+msgid "Show number of cart items on favicon"
+msgstr "Pokaż liczbę pozycji w favicon"
+
+#: framework/theme-options.php:633
+msgid "Background color for cart number label"
+msgstr "Kolor tła dla etykiety numeru koszyka"
+
+#: framework/theme-options.php:641
+msgid "Label position"
+msgstr "Pozycja etykiety"
+
+#: framework/theme-options.php:652 theme/theme-setup.php:45
+msgid "Secondary menu"
+msgstr "Drugie menu"
+
+#: framework/theme-options.php:660
+msgid "Enable secondary menu"
+msgstr "Widoczność drugiego menu"
+
+#: framework/theme-options.php:666
+msgid "Secondary menu visibility"
+msgstr "Widoczność drugiego menu"
+
+#: framework/theme-options.php:668
+msgid "Opened"
+msgstr "Otwierany"
+
+#: framework/theme-options.php:669
+msgid "Opened by click"
+msgstr "Otwierany po kliknięciu"
+
+#: framework/theme-options.php:670
+msgid "Opened on hover"
+msgstr "Otwierany przy najechaniu myszą"
+
+#: framework/theme-options.php:680
+msgid "For home page only"
+msgstr "Tylko dla strony głównej"
+
+#: framework/theme-options.php:689
+msgid "Darkening"
+msgstr "Ściemnianie"
+
+#: framework/theme-options.php:698
+msgid "All departments text"
+msgstr "Tekst wszystkich departamentów"
+
+#: framework/theme-options.php:699
+msgid "All departments"
+msgstr "Wszystkie departamenty"
+
+#: framework/theme-options.php:708
+msgid "Breadcrumbs"
+msgstr "Nawigacja okruszkowa"
+
+#: framework/theme-options.php:716
+msgid "Breadcrumbs Style"
+msgstr "Styl nawigacji okruszkowej"
+
+#: framework/theme-options.php:718
+msgid "Align center"
+msgstr "Wyrównaj centralnie"
+
+#: framework/theme-options.php:719
+msgid "Align left"
+msgstr "Wyrównaj w lewo"
+
+#: framework/theme-options.php:720
+msgid "Left inline"
+msgstr "Wyrównaj do lewej linii"
+
+#: framework/theme-options.php:728
+msgid "Breadcrumbs size"
+msgstr "Rozmiar nawigacji okruszkowej"
+
+#: framework/theme-options.php:738
+msgid "Breadcrumbs effect"
+msgstr "Efekt nawigacji okruszkowej"
+
+#: framework/theme-options.php:740
+msgid "None"
+msgstr "Żaden"
+
+#: framework/theme-options.php:741
+msgid "Parallax on mouse move"
+msgstr "Efekt Parallax przy ruchu myszą"
+
+#: framework/theme-options.php:742
+msgid "Text animation on scroll"
+msgstr "Animacja tekstu podczas przewijania"
+
+#: framework/theme-options.php:749
+msgid "Breadcrumbs background"
+msgstr "Tło nawigacji okruszkowej"
+
+#: framework/theme-options.php:758
+msgid "Breadcrumbs text color"
+msgstr "Kolor tekstu nawigacji okruszkowej"
+
+#: framework/theme-options.php:768
+msgid "\"Back to previous page\" button"
+msgstr "Przycisk Powrót do poprzedniej strony"
+
+#: framework/theme-options.php:774
+msgid "Breadcrumbs padding"
+msgstr "Wypełnienie nawigacji okruszkowej"
+
+#: framework/theme-options.php:784
+msgid "Breadcrumbs title font"
+msgstr "Czcionka tytułowa nawigacji okruszkowej"
+
+#: framework/theme-options.php:793
+msgid "Breadcrumbs font"
+msgstr "Czcionka nawigacji okruszkowej"
+
+#: framework/theme-options.php:802
+msgid "\"Return to previous page\" font"
+msgstr "\"Powrót do poprzedniej strony\" czcionka"
+
+#: framework/theme-options.php:820
+msgid "Footer columns"
+msgstr "Kolumny stopki"
+
+#: framework/theme-options.php:822
+msgid "1 Column"
+msgstr "1 kolumna"
+
+#: framework/theme-options.php:823
+msgid "2 Columns"
+msgstr "2 kolumny"
+
+#: framework/theme-options.php:824
+msgid "3 Columns"
+msgstr "3 kolumny"
+
+#: framework/theme-options.php:825
+msgid "4 Columns"
+msgstr "4 kolumny"
+
+#: framework/theme-options.php:832
+msgid "Show footer demo blocks"
+msgstr "Pokaż bloki demonstracyjne stopki"
+
+#: framework/theme-options.php:833
+msgid "Will be shown if footer sidebars are empty"
+msgstr "Zostaną wyświetlone, jeśli stopki boczne stopki są puste"
+
+#: framework/theme-options.php:839
+msgid "Footer fixed"
+msgstr "Naprawiona stopka"
+
+#: framework/theme-options.php:845
+msgid "\"Back To Top\" button"
+msgstr "Przycisk Powrót do góry"
+
+#: framework/theme-options.php:851
+msgid "\"Back To Top\" button on mobile"
+msgstr "Przycisk \"Powrót do góry\" na urządzeniu mobilnym"
+
+#: framework/theme-options.php:858
+msgid "404 page"
+msgstr "Strona 404"
+
+#: framework/theme-options.php:866
+msgid "404 page content"
+msgstr "Treść strony 404"
+
+#: framework/theme-options.php:872
+msgid "Facebook Login"
+msgstr "Nazwa użytkownika Facebook"
+
+#: framework/theme-options.php:880
+msgid ""
+"To create Facebook APP ID follow the instructions <a href=\"https://"
+"developers.facebook.com/docs/apps/register\" target=\"_blank\">https://"
+"developers.facebook.com/docs/apps/register</a>"
+msgstr ""
+"W celu utworzenia identyfikatora aplikacji Facebook APP, postępuj zgodnie z "
+"instrukcjami <a href=\"https://developers.facebook.com/docs/apps/register\" "
+"target=\"_blank\">https://developers.facebook.com/docs/apps/register</a>"
+
+#: framework/theme-options.php:885
+msgid "Facebook APP ID"
+msgstr "Facebook APP ID"
+
+#: framework/theme-options.php:890
+msgid "Facebook APP SECRET"
+msgstr "Facebook APP SECRET"
+
+#: framework/theme-options.php:897
+msgid "Share buttons"
+msgstr "Udostępnij przyciski"
+
+#: framework/theme-options.php:905
+msgid "Share twitter"
+msgstr "Udostępnij twitter"
+
+#: framework/theme-options.php:911
+msgid "Share facebook"
+msgstr "Udostępnij facebook"
+
+#: framework/theme-options.php:917
+msgid "Share vk"
+msgstr "Udostępnij vk"
+
+#: framework/theme-options.php:923
+msgid "Share pinterest"
+msgstr "Udostępnij pinterest"
+
+#: framework/theme-options.php:929
+msgid "Share google"
+msgstr "Udostępnij google"
+
+#: framework/theme-options.php:935
+msgid "Share mail"
+msgstr "Udostępnij mailem"
+
+#: framework/theme-options.php:941
+msgid "Share linkedin"
+msgstr "Udostępnij linkedin"
+
+#: framework/theme-options.php:947
+msgid "Share whatsapp"
+msgstr "Udostępnij whatsapp"
+
+#: framework/theme-options.php:953
+msgid "Share skype"
+msgstr "Udostępnij skype"
+
+#: framework/theme-options.php:960
+msgid "Styling"
+msgstr "Stylizacja"
+
+#: framework/theme-options.php:966
+#: framework/thirdparty/envato_setup/envato_setup.php:378
+msgid "Content"
+msgstr "Zawartość"
+
+#: framework/theme-options.php:974
+msgid "Dark version"
+msgstr "Ciemna wersja"
+
+#: framework/theme-options.php:979
+msgid "Main Color"
+msgstr "Główny kolor"
+
+#: framework/theme-options.php:986
+msgid "Site Background"
+msgstr "Tło strony"
+
+#: framework/theme-options.php:992
+msgid "Container Background Color"
+msgstr "Kolor tła pojemnika"
+
+#: framework/theme-options.php:1000
+msgid "Form inputs background color"
+msgstr "Format koloru tła wejściowego"
+
+#: framework/theme-options.php:1008
+msgid "Form inputs border color"
+msgstr "Format koloru krawędzi"
+
+#: framework/theme-options.php:1018 framework/theme-options.php:1197
+msgid "Navigation"
+msgstr "Nawigacja"
+
+#: framework/theme-options.php:1026
+msgid "Menu links align"
+msgstr "Wyrównanie lików menu"
+
+#: framework/theme-options.php:1039
+msgid "Footer"
+msgstr "Stopka"
+
+#: framework/theme-options.php:1047
+msgid "Footer text color scheme"
+msgstr "Schemat kolorów stopki"
+
+#: framework/theme-options.php:1057
+msgid "Footer Links"
+msgstr "Linki stopki"
+
+#: framework/theme-options.php:1063
+msgid "Footer Background Color"
+msgstr "Kolor tła stopki"
+
+#: framework/theme-options.php:1071
+msgid "Footer padding"
+msgstr "Podbicie stopki"
+
+#: framework/theme-options.php:1081
+msgid "Copyrights"
+msgstr "Copyrights"
+
+#: framework/theme-options.php:1089
+msgid "Copyrights text color scheme"
+msgstr "Schemat kolorów tekstu Copyrights"
+
+#: framework/theme-options.php:1099
+msgid "Copyrights Links"
+msgstr "Linki Copyrights"
+
+#: framework/theme-options.php:1105
+msgid "Copyrights Background Color"
+msgstr "Kolor tła Copyrights"
+
+#: framework/theme-options.php:1113
+msgid "Copyrights padding"
+msgstr "Podbicie Copyrights"
+
+#: framework/theme-options.php:1123
+msgid "Custom CSS"
+msgstr "Domyślny CSS"
+
+#: framework/theme-options.php:1132
+msgid "Global Custom CSS"
+msgstr "Globalny domyślny CSS"
+
+#: framework/theme-options.php:1138
+msgid "Custom CSS for desktop (992px+)"
+msgstr "Domyślny CSS na desktopy (992px+)"
+
+#: framework/theme-options.php:1144
+msgid "Custom CSS for tablet (768px - 991px)"
+msgstr "Domyślny CSS na tablety (768px - 991px)"
+
+#: framework/theme-options.php:1150
+msgid "Custom CSS for mobile landscape (481px - 767px)"
+msgstr "DomyślnyCSS na urządzenia mobilne krajobrazowe (481px - 767px)"
+
+#: framework/theme-options.php:1156
+msgid "Custom CSS for mobile (0 - 420px)"
+msgstr "Domyślny CSS na urządzenia mobilne (0 - 420px)"
+
+#: framework/theme-options.php:1162
+msgid "Typography"
+msgstr "Typografia"
+
+#: framework/theme-options.php:1177
+msgid "Body Font"
+msgstr "Czcionka główna"
+
+#: framework/theme-options.php:1186
+msgid "Headings"
+msgstr "Nagłówki"
+
+#: framework/theme-options.php:1206 framework/theme-options.php:1242
+msgid "Menu first level font"
+msgstr "Czcionka pierwszego poziomu menu"
+
+#: framework/theme-options.php:1215 framework/theme-options.php:1251
+msgid "Menu second level"
+msgstr "Menu drugiego poziomu"
+
+#: framework/theme-options.php:1224 framework/theme-options.php:1260
+msgid "Menu third level"
+msgstr "Menu trzeciego poziomu"
+
+#: framework/theme-options.php:1233
+msgid "Secondary Navigation"
+msgstr "Druga nawigacja"
+
+#: framework/theme-options.php:1269
+msgid "Upload custom font"
+msgstr "Załaduj czcionkę"
+
+#: framework/theme-options.php:1272
+msgid ""
+"Font that you upload here will be available in the font-family drop-downs at "
+"the Typography options"
+msgstr ""
+"Czcionka, którą tu przesyłasz, będzie dostępna w menu czcionek w opcjach "
+"Typografia"
+
+#: framework/theme-options.php:1287
+msgid "E-Commerce"
+msgstr "E-Commerce"
+
+#: framework/theme-options.php:1293
+msgid "Shop"
+msgstr "Sklep"
+
+#: framework/theme-options.php:1301
+msgid "Enable cart widget in "
+msgstr "Włącz widget koszyka w "
+
+#: framework/theme-options.php:1313
+msgid "Disable \"Add To Cart\" button and shopping cart"
+msgstr "Wyłącz przycisk \"Dodaj do koszyka\" oraz koszyk"
+
+#: framework/theme-options.php:1314
+msgid "Just Catalog"
+msgstr "Tylko katalog"
+
+#: framework/theme-options.php:1319
+msgid "Show products toolbar on the shop page"
+msgstr "Pokaż pasek narzędzi produktów na stronie sklepu"
+
+#: framework/theme-options.php:1325
+msgid "Widgets columns for filters area"
+msgstr "Kolumny widgetów dla obszaru filtrów"
+
+#: framework/theme-options.php:1337
+msgid "Open filter by default"
+msgstr "Otwórz filtr domyślnie"
+
+#: framework/theme-options.php:1343
+msgid "Enable Navigation Accordion"
+msgstr "Włącz akordeon nawigacyjny"
+
+#: framework/theme-options.php:1349
+msgid "Enable \"Out of stock\" icon"
+msgstr "Włącz ikonę Brak w magazynie"
+
+#: framework/theme-options.php:1355
+msgid "Enable \"Sale\" icon"
+msgstr "Włącz ikonę Wyprzedaż"
+
+#: framework/theme-options.php:1361
+msgid "Sale Icon Text"
+msgstr "Tekst ikony wyprzedaży"
+
+#: framework/theme-options.php:1370
+msgid "Sale Icon Text Color"
+msgstr "Kolor tekstu ikony wyprzedaży"
+
+#: framework/theme-options.php:1379
+msgid "Sale Icon Background Color"
+msgstr "Kolor tła ikony wyprzedaży"
+
+#: framework/theme-options.php:1388
+msgid "Sale Icon Border Radius \"in percent\""
+msgstr "Promień obramowania ikony wyprzedaży \"w procentach\""
+
+#: framework/theme-options.php:1401
+msgid "Sale Icon Size \"in em\""
+msgstr "Rozmiar ikony sprzedaży \"w em\""
+
+#: framework/theme-options.php:1402
+msgid "3.75x3.75"
+msgstr "3.75x3.75"
+
+#: framework/theme-options.php:1410
+msgid "Show sale percentage"
+msgstr "Pokaż wyprzedaż w procentach"
+
+#: framework/theme-options.php:1411
+msgid "For simple and external product types"
+msgstr "Dla prostych i zewnętrznych typów produktów"
+
+#: framework/theme-options.php:1418
+msgid "Product Page Banner"
+msgstr "Baner strony produktu"
+
+#: framework/theme-options.php:1423
+msgid "Text for empty cart"
+msgstr "Tekst dla pustego koszyka"
+
+#: framework/theme-options.php:1446
+msgid "Categories style"
+msgstr "Style kategorii"
+
+#: framework/theme-options.php:1449
+msgid "Title with background"
+msgstr "Tytuł z tłem"
+
+#: framework/theme-options.php:1452 framework/theme-options.php:2476
+msgid "Classic"
+msgstr "Klasyczny"
+
+#: framework/theme-options.php:1459
+msgid "Categories text color"
+msgstr "Kolor tekstu kategorii"
+
+#: framework/theme-options.php:1469
+msgid "Text vertical align"
+msgstr "Wyrównanie pionowe tekstu"
+
+#: framework/theme-options.php:1481
+msgid "Products Page Layout"
+msgstr "Układ strony produktów"
+
+#: framework/theme-options.php:1489
+msgid "Products view mode"
+msgstr "Tryb wyświetlania produktów"
+
+#: framework/theme-options.php:1491
+msgid "Grid/List"
+msgstr "Grid/Lista"
+
+#: framework/theme-options.php:1492
+msgid "List/Grid"
+msgstr "Lista/Grid"
+
+#: framework/theme-options.php:1493
+msgid "Only Grid"
+msgstr "Tylko grid"
+
+#: framework/theme-options.php:1494
+msgid "Only List"
+msgstr "Tylko lista"
+
+#: framework/theme-options.php:1501
+msgid "Products per row"
+msgstr "Produkty w rzędzie"
+
+#: framework/theme-options.php:1515
+msgid "Products per page"
+msgstr "Produkty na stronę"
+
+#: framework/theme-options.php:1520
+msgid "Per page variants separated by commas"
+msgstr "Warianty na stronę oddzielone przecinkami"
+
+#: framework/theme-options.php:1521
+msgid "12,24,36,-1"
+msgstr "12,24,36,-1"
+
+#: framework/theme-options.php:1522
+msgid "For example: 12,24,36,-1. Set -1 to show all products"
+msgstr ""
+"Dla przykładu: 12,24,36,-1. Wybierz -1 , aby wyświetlić wszystkie produkty"
+
+#: framework/theme-options.php:1527 framework/theme-options.php:1668
+#: framework/theme-options.php:2286
+msgid "Sidebar position"
+msgstr "Pozycja paska bocznego"
+
+#: framework/theme-options.php:1531
+msgid "full width"
+msgstr "pełna szerokość"
+
+#: framework/theme-options.php:1535 framework/theme-options.php:1675
+#: framework/theme-options.php:2293
+msgid "Left Sidebar"
+msgstr "Lewy pasek boczny"
+
+#: framework/theme-options.php:1539 framework/theme-options.php:1679
+#: framework/theme-options.php:2297
+msgid "Right Sidebar"
+msgstr "Prawy pasek boczny"
+
+#: framework/theme-options.php:1548 framework/theme-options.php:2340
+msgid "Enable sticky sidebar"
+msgstr "Włącz przyklejony pasek boczny"
+
+#: framework/theme-options.php:1554
+msgid "Sidebar position for mobile"
+msgstr "Pozycja paska bocznego dla urządzeń mobilnych"
+
+#: framework/theme-options.php:1564
+msgid "Hide sidebar for mobile devices"
+msgstr "Ukryj pasek boczny dla urządzeń mobilnych"
+
+#: framework/theme-options.php:1574
+msgid "Products masonry"
+msgstr "Produkty kamienne"
+
+#: framework/theme-options.php:1580
+msgid "Image hover effect"
+msgstr "Efekt zawieszania obrazu"
+
+#: framework/theme-options.php:1583
+msgid "Swap"
+msgstr "Zamiana"
+
+#: framework/theme-options.php:1584
+msgid "Images Slider"
+msgstr "Slider obrazów"
+
+#: framework/theme-options.php:1591
+msgid "Buttons hover"
+msgstr "Ukrywaj przyciski"
+
+#: framework/theme-options.php:1595
+msgid "Buttons on hover middle"
+msgstr "Przyciski zawieszone w środku"
+
+#: framework/theme-options.php:1596
+msgid "Buttons on hover bottom"
+msgstr "Przyciski zawieszone na dole"
+
+#: framework/theme-options.php:1597
+msgid "Buttons on hover right"
+msgstr "Przyciski zawieszone po prawej"
+
+#: framework/theme-options.php:1598
+msgid "Information mask"
+msgstr "Maska informacji"
+
+#: framework/theme-options.php:1599 framework/theme-options.php:1723
+msgid "Booking"
+msgstr "Rezerwować"
+
+#: framework/theme-options.php:1607
+msgid "Hover Color Scheme"
+msgstr "Kolor schematu zawieszenia"
+
+#: framework/theme-options.php:1621
+msgid "Hide hover buttons on mobile"
+msgstr "Ukryj przyciski zawieszenia na urządzeniach mobilnych"
+
+#: framework/theme-options.php:1627
+msgid "Show product name"
+msgstr "Pokaż nazwę produktów"
+
+#: framework/theme-options.php:1633
+msgid "Show product categories"
+msgstr "Pokaż kategorie produktów"
+
+#: framework/theme-options.php:1638
+msgid "Show product brands"
+msgstr "Pokaż marki produktów"
+
+#: framework/theme-options.php:1646
+msgid "Show Price"
+msgstr "Pokaż ceny"
+
+#: framework/theme-options.php:1652
+msgid "Show \"Add to cart\" button"
+msgstr "Pokaż przycisk Dodaj do koszyka"
+
+#: framework/theme-options.php:1660
+msgid "Single Product Page"
+msgstr "Strona pojedynczego produktu"
+
+#: framework/theme-options.php:1671 framework/theme-options.php:2289
+msgid "Without Sidebar"
+msgstr "Bez panelu bocznego"
+
+#: framework/theme-options.php:1688
+msgid "Page Layout"
+msgstr "Układ strony"
+
+#: framework/theme-options.php:1707
+msgid "Fixed content"
+msgstr "Treść naprawiona"
+
+#: framework/theme-options.php:1711
+msgid "Image center"
+msgstr "Obraz centralnie"
+
+#: framework/theme-options.php:1719
+msgid "Image right"
+msgstr "Obraz po prawej"
+
+#: framework/theme-options.php:1732
+msgid "Hide sidebar on mobile"
+msgstr "Ukryj panel boczny na urządzeniach mobilnych"
+
+#: framework/theme-options.php:1738
+msgid "Fixed product image"
+msgstr "Obraz produktu naprawiony"
+
+#: framework/theme-options.php:1747
+msgid "Fixed product content"
+msgstr "Treść produktu naprawiona"
+
+#: framework/theme-options.php:1756
+msgid "Show product name above the price"
+msgstr "Pokaż nazwę produktu powyżej ceny"
+
+#: framework/theme-options.php:1766
+msgid "Location of upsell products"
+msgstr "Lokalizacja powyższych produktów"
+
+#: framework/theme-options.php:1768
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#: framework/theme-options.php:1769
+msgid "After content"
+msgstr "Po zawartości"
+
+#: framework/theme-options.php:1775
+msgid "AJAX add to cart for simple products"
+msgstr "AJAX dodaj do koszyka dla prostych produktów"
+
+#: framework/theme-options.php:1781
+msgid "Lightbox for product images"
+msgstr "Lightbox dla obrazów produktów"
+
+#: framework/theme-options.php:1787
+msgid "Zoom for product images"
+msgstr "Powiększ obrazy produktów"
+
+#: framework/theme-options.php:1793 framework/theme-options.php:1799
+msgid "Display related products"
+msgstr "Wyświetl powiązane produkty"
+
+#: framework/theme-options.php:1808
+msgid "Show brand"
+msgstr "Pokaż markę"
+
+#: framework/theme-options.php:1814
+msgid "Show brand image"
+msgstr "Pokaż obraz marki"
+
+#: framework/theme-options.php:1823
+msgid "Show brand title"
+msgstr "Pokaż opis marki"
+
+#: framework/theme-options.php:1832
+msgid "Show brand description"
+msgstr "Pokaż opis marki"
+
+#: framework/theme-options.php:1841
+msgid "Enable slider for gallery thumbnails"
+msgstr "Włącz slider dla miniatur galerii"
+
+#: framework/theme-options.php:1847
+msgid "Show Next/Previous product navigation"
+msgstr "Pokaż następną / poprzednią nawigację produktu"
+
+#: framework/theme-options.php:1853
+msgid "Show share buttons"
+msgstr "Pokaż przyciski udostępniania"
+
+#: framework/theme-options.php:1860
+msgid "Size guide image"
+msgstr "Rozmiar obrazu przewodnika"
+
+#: framework/theme-options.php:1868
+msgid "Left Bar"
+msgstr "Lewy pasek"
+
+#: framework/theme-options.php:1869
+msgid "Accordion"
+msgstr "Harmonijka"
+
+#: framework/theme-options.php:1877
+msgid "Tabs content scroll"
+msgstr "Przewijanie zawartości zakładki"
+
+#: framework/theme-options.php:1886
+msgid "Tab content height"
+msgstr "Wysokość zawartości zakładki"
+
+#: framework/theme-options.php:1900
+msgid "Location of product tabs"
+msgstr "Lokalizacja zakładek produktów"
+
+#: framework/theme-options.php:1902
+msgid "Next to image"
+msgstr "Obok zdjęcia"
+
+#: framework/theme-options.php:1903
+msgid "Under content"
+msgstr "Nad treścią"
+
+#: framework/theme-options.php:1913
+msgid "Reviews position"
+msgstr "Pozycja opinii"
+
+#: framework/theme-options.php:1915
+msgid "Tabs"
+msgstr "Zakładki"
+
+#: framework/theme-options.php:1916
+msgid "Next to tabs"
+msgstr "Obok zakładki"
+
+#: framework/theme-options.php:1926
+msgid "Custom Tab Title"
+msgstr "Tytuł standardowego zakładki"
+
+#: framework/theme-options.php:1934
+msgid ""
+"Enter custom content you would like to output to the product custom tab (for "
+"all products)"
+msgstr ""
+"Wprowadź standardową zawartość, którą chcesz wyprowadzić na zakładkę "
+"standardowego produktu (dla wszystkich produktów)"
+
+#: framework/theme-options.php:1935
+msgid "Custom tab content"
+msgstr "Treść standardowej zakładki"
+
+#: framework/theme-options.php:1953
+msgid "Enable Quick View"
+msgstr "Włącz szybki podgląd"
+
+#: framework/theme-options.php:1959
+msgid "Product images"
+msgstr "Zdjęcia produktów"
+
+#: framework/theme-options.php:1962
+msgid "Single"
+msgstr "Pojedynczy"
+
+#: framework/theme-options.php:1972
+msgid "Quick view layout"
+msgstr "Układ szybkiego podglądu"
+
+#: framework/theme-options.php:1975
+msgid "Centered"
+msgstr "Wypośrodkowane"
+
+#: framework/theme-options.php:1985
+msgid "Product name"
+msgstr "Nazwa produktu"
+
+#: framework/theme-options.php:1994
+msgid "Product categories"
+msgstr "Kategorie produktów"
+
+#: framework/theme-options.php:2012
+msgid "Product star rating"
+msgstr "Ocena produktu"
+
+#: framework/theme-options.php:2021
+msgid "Short description"
+msgstr "Krótki opis"
+
+#: framework/theme-options.php:2030
+msgid "Description length"
+msgstr "Długość opisu"
+
+#: framework/theme-options.php:2039
+msgid "Add to cart"
+msgstr "Dodaj do koszyka"
+
+#: framework/theme-options.php:2048
+msgid "Share icons"
+msgstr "Udostępnij ikony"
+
+#: framework/theme-options.php:2057
+msgid "Product link"
+msgstr "Link do produktu"
+
+#: framework/theme-options.php:2070
+msgid "Promo Popup"
+msgstr "Promocyjny popup"
+
+#: framework/theme-options.php:2079
+msgid "Enable promo popup"
+msgstr "Włącz promocyjny popup"
+
+#: framework/theme-options.php:2085
+msgid "Open popup on enter"
+msgstr "Otwórz popup przy wejściu"
+
+#: framework/theme-options.php:2093
+msgid "Open when scrolled to the bottom of the page"
+msgstr "Otwórz po przewinięciu do dołu strony"
+
+#: framework/theme-options.php:2102
+msgid "Show link in the top bar"
+msgstr "Pokaż link na górnym pasku"
+
+#: framework/theme-options.php:2111
+msgid "Promo link text"
+msgstr "Tekst linku promocyjnego"
+
+#: framework/theme-options.php:2112
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: framework/theme-options.php:2121
+msgid "Popup content"
+msgstr "Treść popup"
+
+#: framework/theme-options.php:2131
+msgid "Popup width"
+msgstr "Szerokość popup"
+
+#: framework/theme-options.php:2140
+msgid "Popup height"
+msgstr "Wysokość popup"
+
+#: framework/theme-options.php:2148
+msgid "Popup background"
+msgstr "Tło popup"
+
+#: framework/theme-options.php:2159
+msgid "Blog & Portfolio"
+msgstr "Blog & Portfolio"
+
+#: framework/theme-options.php:2165 framework/theme-options.php:2173
+msgid "Blog Layout"
+msgstr "Układ blogu"
+
+#: framework/theme-options.php:2188
+msgid "Grid 2"
+msgstr "Grid 2"
+
+#: framework/theme-options.php:2192
+msgid "Timeline"
+msgstr "Oś czasu"
+
+#: framework/theme-options.php:2196
+msgid "Timeline 2"
+msgstr "Oś czasu 2"
+
+#: framework/theme-options.php:2204
+msgid "Chess"
+msgstr "Szachownica"
+
+#: framework/theme-options.php:2212
+msgid "With author"
+msgstr "Z autorem"
+
+#: framework/theme-options.php:2243
+msgid "Masonry"
+msgstr "Kamienne"
+
+#: framework/theme-options.php:2252
+msgid "Blog image hover"
+msgstr "Nakładanie obrazu z bloga"
+
+#: framework/theme-options.php:2256
+msgid "Animated"
+msgstr "Animowany"
+
+#: framework/theme-options.php:2263
+msgid "Show \"byline\" on the blog"
+msgstr "Pokaż \"byline\" na blogu"
+
+#: framework/theme-options.php:2269
+msgid "Show \"Continue reading link\""
+msgstr "Pokaż link \"Czytaj dalej\""
+
+#: framework/theme-options.php:2280
+msgid "Enable views counter"
+msgstr "Włącz licznik wyświetleń"
+
+#: framework/theme-options.php:2306
+msgid "Navigation type"
+msgstr "Typ nawigacji"
+
+#: framework/theme-options.php:2308
+msgid "Pagination"
+msgstr "Paginacja"
+
+#: framework/theme-options.php:2309
+msgid "More Button"
+msgstr "Większy przycisk"
+
+#: framework/theme-options.php:2310
+msgid "Lazy Loading"
+msgstr "Powolne ładowanie"
+
+#: framework/theme-options.php:2317
+msgid "Pagination align"
+msgstr "Dopasowanie paginacji"
+
+#: framework/theme-options.php:2331
+msgid "Enable prev/next pagination links"
+msgstr "Włącz linki paginacji do poprzednich/następnych"
+
+#: framework/theme-options.php:2346
+msgid "Excerpt symbols"
+msgstr "Symbole fragmentów"
+
+#: framework/theme-options.php:2352
+msgid "Excerpt length (words)"
+msgstr "Długość fragmentu (słowa)"
+
+#: framework/theme-options.php:2358
+msgid "Images sizes for blog"
+msgstr "Rozmiary zdjęć dla bloga"
+
+#: framework/theme-options.php:2359 framework/theme-options.php:2366
+#: framework/theme-options.php:2502
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+"Wprowadź rozmiar obrazu (przykład: \"miniatura\", \"średni\", \"duży\", "
+"\"pełny\" lub inne rozmiary zdefiniowane według motywu). Alternatywnie "
+"wprowadź rozmiar w pikselach (przykład: 200x100 (szerokość x wysokość))."
+
+#: framework/theme-options.php:2365
+msgid "Images sizes for related articles"
+msgstr "Rozmiary zdjęć dla powiązanych artykułów"
+
+#: framework/theme-options.php:2373
+msgid "Single post"
+msgstr "Pojedynczy wpis"
+
+#: framework/theme-options.php:2381
+msgid "Post template"
+msgstr "Szablon wiadomości"
+
+#: framework/theme-options.php:2409
+msgid "Display featured image on single post"
+msgstr "Wyświetl polecany obraz w jednym wpisie"
+
+#: framework/theme-options.php:2415
+msgid "Display Title/Meta on single post"
+msgstr "Wyświetl Tytuł/Meta w jednym wpisie"
+
+#: framework/theme-options.php:2422
+msgid "Show Share buttons"
+msgstr "Pokaż przyciski udostępniania"
+
+#: framework/theme-options.php:2429
+msgid "Show About Author block"
+msgstr "Pokaż informację o autorze w bloku"
+
+#: framework/theme-options.php:2435
+msgid "Posts previous/next buttons"
+msgstr "Przycisk poprzednia/następna w wpisach"
+
+#: framework/theme-options.php:2442
+msgid "Show Related posts"
+msgstr "Pokaż podobne wpisy"
+
+#: framework/theme-options.php:2448
+msgid "Related query type"
+msgstr "Powiązany typ zapytania"
+
+#: framework/theme-options.php:2451
+msgid "Tags"
+msgstr "Tagi"
+
+#: framework/theme-options.php:2465
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: framework/theme-options.php:2473
+msgid "Project grid style"
+msgstr "Styl siatki projektu"
+
+#: framework/theme-options.php:2475
+msgid "With title"
+msgstr "Z tytułem"
+
+#: framework/theme-options.php:2483
+msgid "Full width portfolio"
+msgstr "Pełna szerokość portfolio"
+
+#: framework/theme-options.php:2489
+msgid "Make first project wide"
+msgstr "Zrób pierwszy szeroki projekt"
+
+#: framework/theme-options.php:2495
+msgid "Show Next/Previous projects navigation"
+msgstr "Pokaż nawigację następnych/poprzednich projektów"
+
+#: framework/theme-options.php:2501
+msgid "Images sizes for portfolio"
+msgstr "Rozmiary zdjęć do portfolio"
+
+#: framework/theme-options.php:2521
+msgid "Portfolio item spacing"
+msgstr "Odstępy między przedmiotami"
+
+#: framework/theme-options.php:2535
+msgid "Use -1 to show all items"
+msgstr "Użyj -1 , aby wyświetlić wszystkie elementy"
+
+#: framework/theme-options.php:2542
+msgid "Portfolio order way"
+msgstr "Zamówienie uporządkowanego portfolio"
+
+#: framework/theme-options.php:2552
+msgid "Portfolio order by"
+msgstr "Zamówienie portfolio przez"
+
+#: framework/theme-options.php:2565
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: framework/theme-options.php:2571
+msgid "Dummy content"
+msgstr "Dumna zawartość"
+
+#: framework/theme-options.php:2579
+msgid "Install Dummy content"
+msgstr "Instaluj dumna zawartość"
+
+#: framework/theme-options.php:2585
+msgid "Options"
+msgstr "Opcje"
+
+#: framework/theme-options.php:2586
+msgid "Import and Export your theme settings from file, text or URL."
+msgstr ""
+"Importuj i eksportuj ustawienia kompozycji z pliku, tekstu lub adresu URL."
+
+#: framework/theme-options.php:2594
+msgid "Import Export"
+msgstr "Import Export"
+
+#: framework/theme-options.php:2595
+msgid "Save and restore your theme options"
+msgstr "Zapisz i przywróć opcje motywu"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:332
+#: framework/thirdparty/envato_setup/envato_setup.php:337
+msgid "Setup Wizard"
+msgstr "Kreator konfiguracji"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:359
+msgid "Introduction"
+msgstr "Wprowadzenie"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:366
+#: framework/thirdparty/envato_setup/envato_setup.php:986
+#: framework/thirdparty/envato_setup/envato_setup.php:1433
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:165
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2812
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:372
+msgid "Child Theme"
+msgstr "Temat potomny"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:384
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:396
+msgid "Support"
+msgstr "Wparcie"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:401
+msgid "Ready!"
+msgstr "Gotowy!"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:434
+msgid "...verifying"
+msgstr "...weryfikuje"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:489
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr "Temat &rsaquo; Kreator konfiguracji"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:522
+msgid "Return to the WordPress Dashboard"
+msgstr "Wróć do pulpitu WordPress"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:604
+#, php-format
+msgid "Welcome to the setup wizard for %s."
+msgstr "Witamy w kreatorze konfiguracji na %s."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:605
+msgid ""
+"It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+"Wygląda na to, że uruchomiłeś już kreatora instalacji. Poniżej znajduje się "
+"kilka opcji: "
+
+#: framework/thirdparty/envato_setup/envato_setup.php:609
+msgid "Run Setup Wizard Again"
+msgstr "Ponownie uruchom kreatora instalacji"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:615
+msgid "Reset font style and colors"
+msgstr "Zresetuj styl i kolory czcionki"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:625
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:632
+msgid "Welcome to XStore Setup Wizard"
+msgstr "Witamy w kreatorze instalacji XStore"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:633
+msgid "Thank you for choosing our XStore template."
+msgstr "Dziękujemy za wybranie naszego szablonu XStore."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:634
+msgid ""
+"This setup wizard will help you to refresh and configure your website with a "
+"new layout. You will have Child Theme, Content, and Plugins installed in "
+"5-10 minutes (depending on your server configuration). "
+msgstr ""
+"Ten kreator konfiguracji pomoże odświeżyć i skonfigurować witrynę z nowym "
+"układem. Temat, zawartość, wtyczki i temat potomny zostanie zainstalowany w "
+"ciągu 5-10 minut (w zależności od konfiguracji serwera). "
+
+#: framework/thirdparty/envato_setup/envato_setup.php:635
+msgid ""
+"No time right now? If you do not want to go through the wizard, you can "
+"skip, and get back to WordPress dashboard. Come back any time to continue!"
+msgstr ""
+"Nie masz teraz czasu? Jeśli nie chcesz korzystać z kreatora, możesz pominąć "
+"i wrócić do pulpitu WordPress. Wróć w każdej chwili, aby kontynuować!"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:641
+msgid "Let's Go!"
+msgstr "Chodźmy!"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:643
+msgid "Not right now"
+msgstr "Nie teraz"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:685
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+"Opcje zostały zresetowane. Przejdź do Wygląd> Dostosuj w zapleczu WordPress."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:767
+msgid "Default Plugins"
+msgstr "Domyślne wtyczki"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:789
+msgid ""
+"Your website requires some additional plugins.  The following plugins will "
+"be installed:"
+msgstr ""
+"Twoja strona wymaga dodatkowych wtyczek. Zainstalowane zostaną następujące "
+"wtyczki:"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:802
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+"Dobre wieści! Wszystkie wtyczki są już zainstalowane i aktualne. Proszę "
+"kontynuuj."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:805
+msgid ""
+"Please, note that every external plugin can affect your website loading "
+"speed. You can add and remove plugins later on from within WordPress."
+msgstr ""
+"Należy pamiętać, że każda zewnętrzna wtyczka może mieć wpływ na szybkość "
+"ładowania witryny. Możesz później dodawać i usuwać wtyczki z poziomu "
+"WordPress."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:842
+#: framework/thirdparty/envato_setup/envato_setup.php:1001
+#: framework/thirdparty/envato_setup/envato_setup.php:1337
+#: framework/thirdparty/envato_setup/envato_setup.php:1403
+#: framework/thirdparty/envato_setup/envato_setup.php:1507
+#: framework/thirdparty/envato_setup/envato_setup.php:1602
+msgid "Continue"
+msgstr "Dalej"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:844
+#: framework/thirdparty/envato_setup/envato_setup.php:1003
+#: framework/thirdparty/envato_setup/envato_setup.php:1339
+#: framework/thirdparty/envato_setup/envato_setup.php:1501
+msgid "Skip this step"
+msgstr "Pomiń ten krok"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:890
+msgid "No Slug Found"
+msgstr "Nie znaleziono sluga"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:906
+msgid "Activating Plugin"
+msgstr "Aktywacja wtyczki"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:921
+msgid "Updating Plugin"
+msgstr "Aktualizacja wtyczki"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:936
+msgid "Installing Plugin"
+msgstr "Instalacja wtyczki"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:946
+msgid "Success"
+msgstr "Powodzenie"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:969
+msgid "Default Content"
+msgstr "Domyślna zawartość"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:976
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:155
+msgid "Import demo versions"
+msgstr "Importuj wersje demonstracyjne"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:983
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:162
+msgid "Live prview"
+msgstr "Podgląd na żywo"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:986
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:165
+msgid "Import demo"
+msgstr "Importuj demo"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:988
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:167
+msgid "Data imported"
+msgstr "Dane zaimportowane"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1271
+msgid "Logo &amp; Design"
+msgstr "Logo &amp; Projekt"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1273
+#, php-format
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 466 by 277 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard. Try %sEnvato Studio"
+"%s if you need a new logo designed."
+msgstr ""
+"Dodaj swoje logo poniżej. Aby uzyskać najlepsze wyniki, logo powinno być "
+"przezroczyste w formacie PNG (466 na 277 pikseli). Logo można zmienić w "
+"dowolnym momencie w obszarze Wygląd> Dostosuj na pulpicie nawigacyjnym. "
+"Wypróbuj% sEnvato Studio% s, jeśli potrzebujesz nowego zaprojektowanego logo."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1293
+msgid "Upload New Logo"
+msgstr "Załaduj nowe logo"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1305
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+"Wybierz schemat kolorów dla tej witryny. Schemat kolorów (wraz z kolorami "
+"czcionki i stylami) można zmienić w dowolnym momencie w obszarze Wygląd> "
+"Dostosuj w panelu."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1411
+#: framework/thirdparty/envato_setup/envato_setup.php:1626
+msgid "More Resources"
+msgstr "Więcej źródeł"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1413
+#: framework/thirdparty/envato_setup/envato_setup.php:1629
+msgid "Read the Theme Documentation"
+msgstr "Przeczytaj dokumentację tematu"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1414
+#: framework/thirdparty/envato_setup/envato_setup.php:1632
+msgid "Learn how to use WordPress"
+msgstr "Naucz się jak korzystać z WordPress"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1415
+#: framework/thirdparty/envato_setup/envato_setup.php:1635
+msgid "Leave an Item Rating"
+msgstr "Pozostaw ocenę przedmiotu"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1416
+#: framework/thirdparty/envato_setup/envato_setup.php:1637
+msgid "Get Help and Support"
+msgstr "Uzyskaj pomoc i wsparcie"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1426
+#: framework/thirdparty/envato_setup/envato_setup.php:1647
+msgid "View your new website!"
+msgstr "Zobacz swoją nową stronę internetową!"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1427
+#: framework/thirdparty/envato_setup/envato_setup.php:1648
+msgid "Follow @8theme on ThemeForest"
+msgstr "Śledź @8theme na ThemeForest"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1436
+msgid "Enter Purchase code"
+msgstr "Wprowadź kod zakupu"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1440
+#: framework/version-check.php:81
+msgid "Activate theme"
+msgstr "Aktywuj motyw"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1444
+#: framework/version-check.php:72
+msgid ""
+"Use your purchase code to activate XStore template. Please, note, that you "
+"won’t be able to use it without activation."
+msgstr ""
+"Użyj kodu zakupu, aby aktywować szablon XStore. Należy pamiętać, że nie "
+"będzie można go używać bez aktywacji."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1445
+msgid "To find your Purchase code"
+msgstr "Znajdź swój kod zakupu"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1448
+#: framework/version-check.php:74
+msgid ""
+"Activate XStore template and get lifetime updates, 6 months of free top-"
+"notch support, 24/7 live support and much more."
+msgstr ""
+"Aktywuj szablon XStore i uzyskaj dożywotnie aktualizacje, 6 miesięcy "
+"bezpłatnego wsparcia na najwyższym poziomie, całodobowe wsparcie przez "
+"siedem dni w tygodniu i wiele więcej."
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1499
+msgid "Create and Use Child Theme"
+msgstr "Utwórz i używaj motywu potomnego"
+
+#: framework/thirdparty/envato_setup/envato_setup.php:1617
+msgid "Your Website is Ready!"
+msgstr "Twoja strona jest gotowa!"
+
+#: framework/thirdparty/envato_setup/envato_setup_init.php:65
+msgid "Upgrade"
+msgstr "Uaktualnij"
+
+#: framework/thirdparty/envato_setup/envato_setup_init.php:66
+msgid "Upgrade Content and Settings"
+msgstr "Uaktualnij zawartość i ustawienia"
+
+#: framework/thirdparty/envato_setup/envato_setup_init.php:67
+msgid "Pending."
+msgstr "W oczekiwaniu."
+
+#: framework/thirdparty/envato_setup/envato_setup_init.php:68
+msgid "Installing Updates."
+msgstr "Instalacja aktualizacji."
+
+#: framework/thirdparty/envato_setup/envato_setup_init.php:69
+msgid "Success."
+msgstr "Powodzenie."
+
+#: framework/thirdparty/menu-images/inc/admin.php:112
+msgid ""
+"You need to set an image as a featured image to be able to use it as an menu "
+"item image"
+msgstr ""
+"Musisz ustawić obraz jako polecany obraz, aby móc go użyć jako obrazu "
+"pozycji menu"
+
+#: framework/thirdparty/menu-images/inc/admin.php:196
+#: framework/thirdparty/menu-images/inc/walker.php:94
+msgid "Upload menu item image"
+msgstr "Prześlij obraz pozycji menu"
+
+#: framework/thirdparty/menu-images/inc/admin.php:203
+#: framework/thirdparty/menu-images/inc/walker.php:86
+msgid "Change menu item image"
+msgstr "Zmień obraz pozycji menu"
+
+#: framework/thirdparty/menu-images/inc/admin.php:205
+#: framework/thirdparty/menu-images/inc/walker.php:90
+msgid "Remove menu item image"
+msgstr "Usuń obraz pozycji menu"
+
+#: framework/thirdparty/menu-images/inc/admin.php:250
+msgid "Used on hover?"
+msgstr "Używane po najechaniu myszą?"
+
+#: framework/thirdparty/menu-images/inc/admin.php:254
+msgid "Should this image be used on hover"
+msgstr "Jeśli ten obraz będzie używany po najechaniu myszą"
+
+#: framework/thirdparty/menu-images/inc/admin.php:264
+msgid "Used when active?"
+msgstr "Używane, gdy jest aktywne?"
+
+#: framework/thirdparty/menu-images/inc/admin.php:268
+msgid "Should this image be used when menu item is active"
+msgstr "Powinien być używany, gdy element menu jest aktywny"
+
+#: framework/thirdparty/menu-images/nav-menu-images.php:324
+msgid "Donate"
+msgstr "Podaruj"
+
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:12
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr "Moduł dewelopera jest włączono"
+
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG jest włączony"
+
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr "pracujesz w środowisku localhost"
+
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:32
+msgid "and"
+msgstr "i"
+
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr "Redux włączył tryb programisty, ponieważ"
+
+#: framework/thirdparty/options-framework/et-templates/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"Jeśli nie jesteś programistą, Twój autor motywów / wtyczek jest dostarczany "
+"z włączonym trybem programisty. Skontaktuj się z nimi bezpośrednio, aby to "
+"naprawić."
+
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:135
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:143
+msgid "Import base dummy content"
+msgstr "Importuj bazową zawartość obojętną"
+
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:174
+msgid "No access!"
+msgstr "Brak dostępu!"
+
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:175
+msgid ""
+"Please, install Base demo content before, to access the collection of our "
+"Home Pages."
+msgstr ""
+"Najpierw zainstaluj Base demo, aby uzyskać dostęp do kolekcji naszych Stron "
+"domowych."
+
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:180
+msgid "Import additional pages"
+msgstr "Importuj dodatkowe strony"
+
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:185
+msgid "Live preview"
+msgstr "Live preview"
+
+#: framework/thirdparty/options-framework/extensions/dummy_content/dummy_content/field_dummy_content.php:196
+msgid "Import"
+msgstr "Importuj"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/extension_fonts_uploader.php:82
+msgid "File ID does not exist"
+msgstr "File ID does not exist"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/extension_fonts_uploader.php:103
+msgid "File was't deleted"
+msgstr "Plik nie został usunięty"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/extension_fonts_uploader.php:115
+msgid "File was deleted"
+msgstr "Plik został usunięty"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:66
+msgid ""
+"Please, make sure that you upload font formats that are supported by all the "
+"browsers."
+msgstr ""
+"Upewnij się, że przesyłasz formaty czcionek obsługiwane przez wszystkie "
+"przeglądarki."
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:67
+msgid "Browser Support for Font Formats"
+msgstr "Obsługa przeglądarki dla formatów czcionek"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:71
+msgid "Font format"
+msgstr "Format czcionek"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:125
+msgid "Upload font"
+msgstr "Prześlij czcionkę"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:136
+msgid "Uploaded fonts"
+msgstr "Przesłane czcionki"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:152
+msgid "It looks like font file was removed from the folder directly"
+msgstr "Wygląda na to, że plik czcionki został usunięty bezpośrednio z folderu"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:159
+msgid "Font details"
+msgstr "Szczegóły czcionki"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:161
+msgid "Uploaded at"
+msgstr "Przesłano w"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:163
+msgid "Uploaded by"
+msgstr "Przesłano w"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:167
+msgid "File name"
+msgstr "Nazwa pliku"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:168
+msgid "File size"
+msgstr "Rozmiar pliku"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:227
+msgid "Empty Font file field"
+msgstr "Puste pole pliku czcionek"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:244
+msgid "Wrong file extension \"use only: eot, woff2, woff, ttf, otf\""
+msgstr ""
+"Niewłaściwe rozszerzenie pliku \"użyj tylko: eot, woff2, woff, ttf, otf\""
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:250
+msgid "File size more then 5MB"
+msgstr "Rozmiar pliku większy niż 5 MB"
+
+#: framework/thirdparty/options-framework/extensions/fonts_uploader/fonts_uploader/field_fonts_uploader.php:289
+msgid "File was successfully uploaded."
+msgstr "Plik został pomyślnie przesłany."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: theme/functions.php:238
+msgid "Install Required Plugins"
+msgstr "Zainstaluj potrzebne wtyczki"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: theme/functions.php:239
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: theme/functions.php:240 theme/functions.php:242
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie wtyczki: % s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aktualizacja wtyczki: % s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#: theme/functions.php:243
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z wtyczką API."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:342
+#: theme/functions.php:244
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ten motyw wymaga następującej wtyczki: %1$s."
+msgstr[1] "Te motywy wymagają następujących wtyczek: %1$s."
+msgstr[2] "Te motywy wymagają następujących wtyczek: %1$s."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:348
+#: theme/functions.php:245
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ten motyw zaleca następującą wtyczkę: %1$s."
+msgstr[1] "Te motywy zalecają następujące wtyczki: %1$s."
+msgstr[2] "Te motywy zalecają następujące wtyczki: %1$s."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:354
+#: theme/functions.php:250
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Poniższa wtyczka musi zostać zaktualizowana do najnowszej wersji, aby "
+"zapewnić maksymalną zgodność z tym tematem: %1$s."
+msgstr[1] ""
+"Poniższe wtyczki muszą zostać zaktualizowane do najnowszej wersji, aby "
+"zapewnić maksymalną zgodność z tym tematem: %1$s."
+msgstr[2] ""
+"Poniższe wtyczki muszą zostać zaktualizowane do najnowszej wersji, aby "
+"zapewnić maksymalną zgodność z tym tematem: %1$s."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Dostępna jest aktualizacja dla: %1$s."
+msgstr[1] "Dostępne są aktualizacje dla wymaganych wtyczek: %1$s."
+msgstr[2] "Dostępne są aktualizacje dla wymaganych wtyczek: %1$s."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:366
+#: theme/functions.php:247
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Wymagana wtyczka jest obecnie nieaktywna: %1$s."
+msgstr[1] "Wymagane wtyczki są obecnie nieaktywne: %1$s."
+msgstr[2] "Wymagane wtyczki są obecnie nieaktywne: %1$s."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:372
+#: theme/functions.php:248
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Zalecana wtyczka jest obecnie nieaktywna: %1$s."
+msgstr[1] "Zalecane wtyczki są obecnie nieaktywne: %1$s."
+msgstr[2] "Zalecane wtyczki są obecnie nieaktywne: %1$s."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+#: theme/functions.php:252
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Rozpocznij instalację wtyczek"
+msgstr[2] "Rozpocznij instalację wtyczek"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpocznij aktualizację wtyczki"
+msgstr[1] "Rozpocznij aktualizację wtyczek"
+msgstr[2] "Rozpocznij aktualizację wtyczek"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpocznij aktywację wtyczki"
+msgstr[1] "Rozpocznij aktywację wtyczek"
+msgstr[2] "Rozpocznij aktywację wtyczek"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:391
+#: theme/functions.php:254
+msgid "Return to Required Plugins Installer"
+msgstr "Wróć do wmaganego instalatora wtyczek"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:913
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2619
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3690
+msgid "Return to the Dashboard"
+msgstr "Powrót do panelu"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3269
+#: theme/functions.php:255
+msgid "Plugin activated successfully."
+msgstr "Wtyczka została aktywowana pomyślnie."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3038
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Następująca wtyczka została aktywowana pomyślnie:"
+msgstr[1] "Następujące wtyczki zostały aktywowane pomyślnie:"
+msgstr[2] "Następujące wtyczki zostały aktywowane pomyślnie:"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nie podjęto żadnego działania. Wtyczka %1$s była już aktywna."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Wtyczka nie została aktywowana. Dla tego tematu wymagana jest wyższa wersja "
+"% s. Zaktualizuj wtyczkę."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i aktywowane pomyślnie. %1$s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr "Odrzuć to powiadomienie"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Istnieje co najmniej jedna wymagana lub zalecana wtyczka do zainstalowania, "
+"aktualizacji lub aktywacji."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr "Skontaktuj się z administratorem tej witryny, aby uzyskać pomoc."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ta wtyczka musi zostać zaktualizowana, aby była zgodna z Twoim motywem."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Now."
+msgstr "Aktualizuj teraz."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:609
+msgid "There is a new version of XStore Core available."
+msgstr "Dostępna jest nowa wersja XStore Core."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1020
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Zdalny pakiet wtyczek nie zawiera folderu z żądanym plikiem i zmiana nazwy "
+"nie działała."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1020
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1023
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Skontaktuj się z dostawcą wtyczek i poproś ich o spakowanie wtyczki zgodnie "
+"z wytycznymi WordPress."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Zdalny pakiet wtyczek składa się z więcej niż jednego pliku, ale pliki nie "
+"są spakowane w folderze."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1207
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3034
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2359
+msgid "Required"
+msgstr "Wymagany"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2362
+msgid "Recommended"
+msgstr "Zalecana"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2378
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2381
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2384
+msgid "Pre-Packaged"
+msgstr "Wstępnie załadowany"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2401
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2405
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano, ale nie aktywowano"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2413
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja jest niedostępna"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2416
+msgid "Requires Update"
+msgstr "Wymaga aktualizacji"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2419
+msgid "Update recommended"
+msgstr "Aktualizacja zalecana"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2428
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2474
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Instalować <span class=\"count\">(%s)</span>"
+msgstr[1] "Instalować <span class=\"count\">(%s)</span>"
+msgstr[2] "Instalować <span class=\"count\">(%s)</span>"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktywować <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktywować <span class=\"count\">(%s)</span>"
+msgstr[2] "Aktywować <span class=\"count\">(%s)</span>"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2568
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznany"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2576
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2584
+msgid "Minimum required version:"
+msgstr "Minimalna wymagana:"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2596
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2619
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2633
+msgid "Plugin"
+msgstr "Wyczka"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2634
+msgid "Source"
+msgstr "Źródło"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2635
+msgid "Type"
+msgstr "Typ"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "Version"
+msgstr "Wersja"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Status"
+msgstr "Status"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2689
+#, php-format
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Update %2$s"
+msgstr "Zakualizuj %2$s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2700
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktywuj %2$s"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2770
+msgid "Upgrade message from the plugin author:"
+msgstr "Zaktualizuj wiadomość od autora wtyczki:"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2803
+msgid "Install"
+msgstr "Zainstalować"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2809
+msgid "Update"
+msgstr "Aktualizacja"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Żadne wtyczki nie zostały wybrane do zainstalowania. Nie podjęto żadnego "
+"działania."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Żadne wtyczki nie zostały wybrane do aktualizacji. Nie podjęto żadnego "
+"działania."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be installed at this time."
+msgstr "W tej chwili nie można zainstalować wtyczek."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2888
+msgid "No plugins are available to be updated at this time."
+msgstr "W tej chwili nie można aktualizować żadnych wtyczek."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2994
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Żadne wtyczki nie zostały wybrane do aktywacji. Nie podjęto żadnego "
+"działania."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3020
+msgid "No plugins are available to be activated at this time."
+msgstr "W tym momencie nie można aktywować żadnych wtyczek."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3168
+msgid "Downloading the upgrade package&#8230;"
+msgstr "Pobieranie pakietu aktualizacji&#8230;"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3179
+#: theme/functions.php:241
+msgid "Downloading the install package&#8230;"
+msgstr "Pobieranie pakietu instalacyjnego&#8230;"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3268
+msgid "Plugin activation failed."
+msgstr "Nie udało się aktywować wtyczki."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizacja wtyczki %1$s (%2$d/%3$d)"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalowania %1$s: <strong>%2$s</strong>."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3617
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Trwa proces instalacji i aktywacji. Ten proces może trochę potrwać na "
+"niektórych hostach, więc prosimy o cierpliwość."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3619
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowane i aktywowane pomyślnie."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3619
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3627
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3619
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3627
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3620
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3622
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3625
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Rozpoczyna się proces instalacji. Ten proces może trochę potrwać na "
+"niektórych hostach, więc prosimy o cierpliwość."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3627
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalacja zakończona sukcesem."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3628
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały ukończone."
+
+#: framework/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3630
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: framework/vc.php:37 framework/vc.php:62
+msgid "Fixed background position"
+msgstr "Naprawiono pozycję tła"
+
+#: framework/vc.php:39 framework/vc.php:64
+msgid "Design Options"
+msgstr "Opcje projektowania"
+
+#: framework/vc.php:43 framework/vc.php:68
+msgid "Left center"
+msgstr "Lewo centrum"
+
+#: framework/vc.php:44 framework/vc.php:69
+msgid "Right center"
+msgstr "Prawo centrum"
+
+#: framework/vc.php:45 framework/vc.php:70
+msgid "Center center"
+msgstr "Centrum centrum"
+
+#: framework/vc.php:51
+msgid "Off center"
+msgstr "Poza centrum"
+
+#: framework/vc.php:152
+msgid "Number of slides on large screens"
+msgstr "Liczba slajdów na dużych ekranach"
+
+#: framework/vc.php:158
+msgid "On notebooks"
+msgstr "Na notebooku"
+
+#: framework/vc.php:164
+msgid "On tablet landscape"
+msgstr "Na tablecie w trybie pejzażu"
+
+#: framework/vc.php:170
+msgid "On tablet portrait"
+msgstr "Na tablecie w trybie potretowym"
+
+#: framework/vc.php:176
+msgid "On mobile"
+msgstr "Na urządzeniu mobilnym"
+
+#: framework/vc.php:191
+msgid "Display A-Z filter"
+msgstr "Wyświetl filtr A-Z"
+
+#: framework/vc.php:193 framework/vc.php:200 framework/vc.php:212
+#: framework/vc.php:223 framework/vc.php:230 framework/vc.php:237
+#: framework/vc.php:244 framework/vc.php:251 framework/vc.php:258
+#: framework/vc.php:265
+msgid "Brand settings"
+msgstr "Ustawienia marki"
+
+#: framework/vc.php:202
+msgid "1"
+msgstr "1"
+
+#: framework/vc.php:210
+msgid "Alignment"
+msgstr "Wyrównanie"
+
+#: framework/vc.php:221
+msgid "Display brands capital letter"
+msgstr "Wyświetlaj listę firm"
+
+#: framework/vc.php:228
+msgid "Brand title"
+msgstr "Tytuł marki"
+
+#: framework/vc.php:235
+msgid "Brand image"
+msgstr "Obraz marki"
+
+#: framework/vc.php:242
+msgid "Title with tooltip"
+msgstr "Tytuł z podpowiedziami"
+
+#: framework/vc.php:249
+msgid "Brand description "
+msgstr "Opis marki "
+
+#: framework/vc.php:256
+msgid "Hide empty"
+msgstr "Ukryj pusty"
+
+#: framework/vc.php:263
+msgid "Show Product Counts"
+msgstr "Pokaż liczbę produktów"
+
+#: framework/version-check.php:52 framework/version-check.php:53
+msgid "8theme Options"
+msgstr "8theme opcje"
+
+#: framework/version-check.php:65
+msgid "Activate Theme"
+msgstr "Aktywuj motyw"
+
+#: framework/version-check.php:73
+msgid ""
+"To find your Purchase code, please, enter your ThemeForest account > "
+"Downloads tab > choose XStore > Download > License Certificate & Purchase "
+"code"
+msgstr ""
+"Aby znaleźć swój kod zakupu, proszę podać swoje konto ThemeForest> zakładka "
+"Pobieranie> wybrać XStore> Pobierz> Certyfikat licencji i kod zakupu"
+
+#: framework/version-check.php:77
+msgid "Purchase code"
+msgstr "Kod dostępu"
+
+#: framework/version-check.php:365
+msgid ""
+"This is major theme update! Please, do the backup of your files and database "
+"before proceed to update"
+msgstr ""
+"To jest ważna aktualizacja motywu! Zrób kopię zapasową plików i bazy danych, "
+"zanim przejdziesz do aktualizacji"
+
+#: framework/walkers.php:101 framework/walkers.php:111
+msgid "New"
+msgstr "Nowe"
+
+#: framework/walkers.php:107
+msgid "Hot"
+msgstr "Gorące"
+
+#: framework/widgets/about-author.php:9
+msgid "About author block"
+msgstr "Blok autora"
+
+#: framework/widgets/about-author.php:10 single.php:124
+msgid "About Author"
+msgstr "O autorze"
+
+#: framework/widgets/about-author.php:70 framework/widgets/brands.php:35
+msgid "Image"
+msgstr "Obraz"
+
+#: framework/widgets/about-author.php:71
+msgid "Caption"
+msgstr "Podpis"
+
+#: framework/widgets/about-author.php:72
+msgid "Bio"
+msgstr "Bio"
+
+#: framework/widgets/about-author.php:73
+msgid "Autograph image"
+msgstr "Obraz autografu"
+
+#: framework/widgets/brands.php:20
+msgid "A list or dropdown of product brands."
+msgstr "Lista lub zestawienie marek produktów."
+
+#: framework/widgets/brands.php:22
+msgid "8themes brand list"
+msgstr "8themes lista marek"
+
+#: framework/widgets/brands.php:26
+msgid "Filter by brand"
+msgstr "Filtruj według marki"
+
+#: framework/widgets/brands.php:32
+msgid "Display type:"
+msgstr "Typ wyświetlacza:"
+
+#: framework/widgets/brands.php:41
+msgid "Show as dropdown (Only for Display type: Name)"
+msgstr "Pokaż jako rozwijane (tylko dla typu wyświetlania: nazwa)"
+
+#: framework/widgets/brands.php:46
+msgid "Show product counts"
+msgstr "Pokaż liczbę produktów"
+
+#: framework/widgets/featured-posts.php:9
+msgid "Show featured posts"
+msgstr "Pokaż polecane wpisy"
+
+#: framework/widgets/featured-posts.php:10
+msgid "Featured Posts"
+msgstr "Polecane wpisy"
+
+#: framework/widgets/featured-posts.php:82 framework/widgets/posts-tabs.php:76
+#: framework/widgets/recent-comments.php:99
+#: framework/widgets/recent-posts.php:138 framework/widgets/twitter.php:52
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: framework/widgets/featured-posts.php:83
+msgid "Post IDs, separated by commas:"
+msgstr "Identyfikatory postów oddzielone przecinkami:"
+
+#: framework/widgets/featured-posts.php:84
+msgid "Hide excerpt"
+msgstr "Ukryj fragment"
+
+#: framework/widgets/flickr.php:19
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/widgets/posts-tabs.php:9
+msgid "The most recent and popular posts on your blog"
+msgstr "Najnowsze i popularne wpisy na Twoim blogu"
+
+#: framework/widgets/posts-tabs.php:10
+msgid "Posts Tabs Widget"
+msgstr "Widgety zakładki postów"
+
+#: framework/widgets/posts-tabs.php:37
+msgid "Recent"
+msgstr "Ostatni"
+
+#: framework/widgets/posts-tabs.php:40
+msgid "Popular"
+msgstr "Popularny"
+
+#: framework/widgets/posts-tabs.php:77
+msgid "Number of posts:"
+msgstr "Liczba wpisów:"
+
+#: framework/widgets/products.php:14
+msgid "Display a list of your products on your site."
+msgstr "Wyświetl listę swoich produktów w witrynie."
+
+#: framework/widgets/products.php:16
+msgid "Products Widget"
+msgstr "Widget produktów"
+
+#: framework/widgets/products.php:20
+msgid "Products"
+msgstr "Produkty"
+
+#: framework/widgets/products.php:29
+msgid "Number of products to show"
+msgstr "Liczba produktów do wyświetlenia"
+
+#: framework/widgets/products.php:36
+msgid "All Products"
+msgstr "Wszystkie produkty"
+
+#: framework/widgets/products.php:37
+msgid "Featured Products"
+msgstr "Polecane produkty"
+
+#: framework/widgets/products.php:38
+msgid "On-sale Products"
+msgstr "Produkty na sprzedaż"
+
+#: framework/widgets/products.php:49
+msgid "Sales"
+msgstr "Sprzedaż"
+
+#: framework/widgets/products.php:55
+msgctxt "Sorting order"
+msgid "Order"
+msgstr "Zamówienie"
+
+#: framework/widgets/products.php:57
+msgid "ASC"
+msgstr "ASC"
+
+#: framework/widgets/products.php:58
+msgid "DESC"
+msgstr "DESC"
+
+#: framework/widgets/products.php:64
+msgid "Slider widget"
+msgstr "Widget slidera"
+
+#: framework/widgets/products.php:69
+msgid "Hide free products"
+msgstr "Ukryj darmowe produkty"
+
+#: framework/widgets/products.php:74
+msgid "Show hidden products"
+msgstr "Pokaż ukryte produkty"
+
+#: framework/widgets/qr-code.php:9
+msgid ""
+"You can add a QR code image in sidebar to allow your users get quick access "
+"from their devices"
+msgstr ""
+"Możesz dodać obraz kod QR na bocznym pasku, aby umożliwić użytkownikom "
+"szybki dostęp do produktów"
+
+#: framework/widgets/qr-code.php:10
+msgid "QR Code"
+msgstr "Kod QR"
+
+#: framework/widgets/qr-code.php:63
+msgid "Widget title:"
+msgstr "Tytuł widgetu:"
+
+#: framework/widgets/qr-code.php:65
+msgid "Information to encode:"
+msgstr "Informacje do kodowania:"
+
+#: framework/widgets/qr-code.php:67
+msgid "Image size:"
+msgstr "Rozmiar obrazu:"
+
+#: framework/widgets/qr-code.php:69
+msgid "Show in lightbox"
+msgstr "Pokaż w lightbox"
+
+#: framework/widgets/qr-code.php:71
+msgid "Encode link to the current page"
+msgstr "Zakoduj link do bieżącej strony"
+
+#: framework/widgets/qr-code.php:73
+msgid "Additional information in widget"
+msgstr "Dodatkowe informację w widgecie"
+
+#: framework/widgets/recent-comments.php:10
+msgid "The most recent comments (Etheme edit)"
+msgstr "Najnowsze komentarze (edycja Etheme)"
+
+#: framework/widgets/recent-comments.php:11
+msgid "Recent Comments"
+msgstr "Ostatnie komentarze"
+
+#: framework/widgets/recent-comments.php:102
+msgid "Number of comments to show:"
+msgstr "Liczba komentarzy do wyświetlenia:"
+
+#: framework/widgets/recent-posts.php:9
+msgid "The most recent posts on your blog (Etheme Edit)"
+msgstr "Najnowsze wpisy na Twoim blogu (Etheme Edit)"
+
+#: framework/widgets/recent-posts.php:10
+msgid "Posts Widget"
+msgstr "Widget wpisów"
+
+#: framework/widgets/recent-posts.php:82
+msgid "0 Comments"
+msgstr "0 komentarzy"
+
+#: framework/widgets/recent-posts.php:82
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+#: framework/widgets/recent-posts.php:141
+msgid "Number of posts to show:"
+msgstr "Liczba postów do pokazania:"
+
+#: framework/widgets/recent-posts.php:143
+msgid "(at most 15)"
+msgstr "(maksymalnie 15)"
+
+#: framework/widgets/recent-posts.php:145
+msgid "Show images"
+msgstr "Pokaż zdjęcia"
+
+#: framework/widgets/recent-posts.php:147
+msgid "Post type"
+msgstr "Typ wpisu"
+
+#: framework/widgets/recent-posts.php:152
+msgid "Use slider"
+msgstr "Użyj slidera"
+
+#: framework/widgets/recent-posts.php:158
+msgid "Posts query"
+msgstr "Zapytanie o wpisy"
+
+#: framework/widgets/recent-posts.php:163
+msgid "Slider autoplay time in ms"
+msgstr "Czas autoodtwarzania suwaka w ms"
+
+#: framework/widgets/socials.php:9
+msgid "Social links widget"
+msgstr "Widget linków do mediów społecznościowych"
+
+#: framework/widgets/socials.php:10
+msgid "Social links"
+msgstr "Linki społecznościowe"
+
+#: framework/widgets/socials.php:164
+msgid "Link Target"
+msgstr "Cel linku"
+
+#: framework/widgets/static-block.php:9
+msgid "Insert a static block"
+msgstr "Wstaw blok statyczny"
+
+#: framework/widgets/static-block.php:10
+msgid "Static Block"
+msgstr "Blok statyczny"
+
+#: framework/widgets/static-block.php:36
+msgid "Block name:"
+msgstr "Nazwa bloku:"
+
+#: framework/widgets/twitter.php:9
+msgid "Display most recent Twitter feed"
+msgstr "Wyświetl najnowszy kanał na Twitterze"
+
+#: framework/widgets/twitter.php:11
+msgid "Twitter Feed"
+msgstr "Kanał na Twitterze"
+
+#: framework/widgets/twitter.php:53
+msgid "Username:"
+msgstr "Nazwa użytkownika:"
+
+#: framework/widgets/twitter.php:54
+msgid "Customer Key:"
+msgstr "Klucz klienta:"
+
+#: framework/widgets/twitter.php:55
+msgid "Customer Secret:"
+msgstr "Sekret klienta:"
+
+#: framework/widgets/twitter.php:56
+msgid "Access Token:"
+msgstr "Token dostępu:"
+
+#: framework/widgets/twitter.php:57
+msgid "Access Token Secret:"
+msgstr "Uzyskaj dostęp do tokenu tajnego klucza:"
+
+#: framework/widgets/twitter.php:58
+msgid "Number of tweets:"
+msgstr "Liczba tweetów:"
+
+#: framework/widgets/wp-instagram-widget.php:53
+msgid "Displays your latest Instagram photos"
+msgstr "Wyświetla Twoje najnowsze zdjęcia z Instagramu"
+
+#: framework/widgets/wp-instagram-widget.php:207
+msgid "Follow Us"
+msgstr "Śledź nas"
+
+#: framework/widgets/wp-instagram-widget.php:221
+msgid "Number of photos"
+msgstr "Liczba zdjęć"
+
+#: framework/widgets/wp-instagram-widget.php:274
+msgid "Unable to communicate with Instagram."
+msgstr "Nie można się połączyć z Instagramem."
+
+#: framework/widgets/wp-instagram-widget.php:276
+msgid "Instagram did not return a 200."
+msgstr "Instagram nie zwrócił 200."
+
+#: framework/widgets/wp-instagram-widget.php:282
+#: framework/widgets/wp-instagram-widget.php:296
+#: framework/widgets/wp-instagram-widget.php:299
+msgid "Instagram has returned invalid data."
+msgstr "Instagram zwrócił nieprawidłowe dane."
+
+#: framework/widgets/wp-instagram-widget.php:335
+msgid "Instagram Image"
+msgstr "Obraz na Instagramie"
+
+#: framework/widgets/wp-instagram-widget.php:366
+msgid "Instagram did not return any images."
+msgstr "Instagram nie zwrócił żadnych obrazów."
+
+#: framework/woo.php:113
+msgid "quantity"
+msgstr "ilość"
+
+#: framework/woo.php:204
+msgid "Open 360 view"
+msgstr "Otwórz widok 360"
+
+#: framework/woo.php:322
+msgid "Show details"
+msgstr "Pokaż szczegóły"
+
+#: framework/woo.php:417
+msgid "Email to a friend"
+msgstr "Wyślij maila do znajomego"
+
+#: framework/woo.php:441
+msgid "Sizing guide"
+msgstr "Przewodnik po rozmiarach"
+
+#: framework/woo.php:589
+msgid "View as:"
+msgstr "Wyświetl jako:"
+
+#: framework/woo.php:659
+msgid "Filters"
+msgstr "Filtry"
+
+#: framework/woo.php:722
+msgid "Per page"
+msgstr "Po stronie"
+
+#: framework/woo.php:833 framework/woo.php:1073
+msgid "Recently added item(s)"
+msgstr "Ostatnio dodany przedmiot"
+
+#: framework/woo.php:874
+msgid "View Wishlist"
+msgstr "Zobacz listę ulubionych"
+
+#: framework/woo.php:879
+msgid "No products in the wishlist."
+msgstr "Brak ulubionych produktów."
+
+#: framework/woo.php:1053
+msgid "Cart"
+msgstr "Koszyk"
+
+#: framework/woo.php:1096 woocommerce/cart/cart.php:110
+msgid "Remove this item"
+msgstr "Usuń ten przedmiot"
+
+#: framework/woo.php:1127
+msgid "No products in the cart."
+msgstr "Brak produktów w koszyku."
+
+#: framework/woo.php:1135
+msgid "Cart Subtotal:"
+msgstr "Podsumowanie:"
+
+#: framework/woo.php:1145
+msgid "View Cart"
+msgstr "Zobacz koszyk"
+
+#: framework/woo/brands.php:24
+msgid "Product brand"
+msgstr "Marka produktu"
+
+#: framework/woo/brands.php:40
+msgid "View all products"
+msgstr "Wyświetl wszystkie produkty"
+
+#: framework/woo/brands.php:61 framework/woo/brands.php:138
+msgid "Upload/Add image"
+msgstr "Załaduj/Dodaj obraz"
+
+#: framework/woo/brands.php:62 framework/woo/brands.php:139
+msgid "Remove image"
+msgstr "Usuń obraz"
+
+#: framework/woo/brands.php:86 framework/woo/brands.php:160
+msgid "Choose an image"
+msgstr "Wybierz obraz"
+
+#: framework/woo/brands.php:88 framework/woo/brands.php:162
+msgid "Use image"
+msgstr "Użyj obrazu"
+
+#: framework/woo/video.php:9
+msgid "Product Video"
+msgstr "Video do produktu"
+
+#: framework/woo/video.php:17
+msgid "Upload your Video in 3 formats: MP4, OGG and WEBM"
+msgstr "Załaduj film w formacie MP4, OGG lub WEBM"
+
+#: framework/woo/video.php:46
+msgid "Delete image"
+msgstr "Usuń obraz"
+
+#: framework/woo/video.php:46 framework/woo/video.php:115
+msgid "Delete"
+msgstr "Usuń"
+
+#: framework/woo/video.php:57
+msgid "Add product gallery video"
+msgstr "Dodaj produkt do galerii video"
+
+#: framework/woo/video.php:60
+msgid "Or you can use YouTube or Vimeo iframe code"
+msgstr "Lub możesz użyć kodu w YouTube lub Vimeo"
+
+#: framework/woo/video.php:91
+msgid "Add Images to Product Gallery"
+msgstr "Dodaj obraz do galerii produktów"
+
+#: framework/woo/video.php:93
+msgid "Add to gallery"
+msgstr "Dodaj do galerii"
+
+#: framework/woo/video.php:115
+msgid "Delete video"
+msgstr "Usuń video"
+
+#: headers/parts/top-bar.php:12
+msgid "Open panel"
+msgstr "ROZWIŃ"
+
+#: index.php:60
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Niestety, brak wyników wyszukiwania. Spróbuj ponownie wyszukać, używając "
+"kluczowych słów"
+
+#: index.php:73
+msgid "Prev page"
+msgstr "Poprzednia strona"
+
+#: index.php:74
+msgid "Next page"
+msgstr "Następna strona"
+
+#: index.php:87 index.php:94
+msgid "No more posts to load"
+msgstr "Brak możliwości wczytania większej ilości wpisów"
+
+#: index.php:89
+msgid "Load More Posts"
+msgstr "Załaduj więcej wpisów"
+
+#: index.php:94
+msgid "Loading"
+msgstr "Ładuję"
+
+#: page.php:25
+msgid "Edit this"
+msgstr "Edytuj to"
+
+#: searchform.php:9
+msgid "Search..."
+msgstr "Szukaj..."
+
+#: single-etheme_portfolio.php:40
+msgid "Recent Works"
+msgstr "Ostatnie prace"
+
+#: single.php:104
+msgid "<div class=\"single-tags\"><span>Tags</span> "
+msgstr "<div class=\"single-tags\"><span>Tagi</span> "
+
+#: single.php:129
+#, php-format
+msgid "Other posts by %s"
+msgstr "Inne wpisy po %s"
+
+#: theme/functions.php:246
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do zainstalowania wtyczki "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"instalacji wtyczki."
+msgstr[1] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do zainstalowania wtyczek "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"instalacji wtyczek."
+msgstr[2] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do zainstalowania wtyczek "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"instalacji wtyczek."
+
+#: theme/functions.php:249
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do aktywowania wtyczki "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"aktywowania wtyczki."
+msgstr[1] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do aktywowania wtyczek "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"aktywowania wtyczek."
+msgstr[2] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do aktywowania wtyczek "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"aktywowania wtyczek."
+
+#: theme/functions.php:251
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do aktualizacji wtyczki "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"aktualizacji wtyczki."
+msgstr[1] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do aktualizacji wtyczek "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"aktualizacji wtyczek."
+msgstr[2] ""
+"Przepraszamy, ale nie masz odpowiednich uprawnień do aktualizacji wtyczek "
+"% s. Skontaktuj się z administratorem tej strony, aby uzyskać pomoc na temat "
+"aktualizacji wtyczek."
+
+#: theme/functions.php:253
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Aktywuj zainstalowaną wtyczkę"
+msgstr[1] "Aktywuj zainstalowane wtyczki"
+msgstr[2] "Aktywuj zainstalowane wtyczki"
+
+#: theme/functions.php:256
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i aktywowane pomyślnie. %s"
+
+#: theme/theme-setup.php:42
+msgid "Main menu"
+msgstr "Główne menu"
+
+#: theme/theme-setup.php:43
+msgid "Main menu right"
+msgstr "Główne menu po prawej"
+
+#: theme/theme-setup.php:44
+msgid "Mobile menu"
+msgstr "Mobilne menu"
+
+#: theme/theme-setup.php:46
+msgid "My account"
+msgstr "Moje konto"
+
+#: vc_templates/post_block/_item.php:17
+msgid ", "
+msgstr ", "
+
+#: vc_templates/post_block/_item.php:33
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: vc_templates/vc_button.php:10
+msgid "Text on the button"
+msgstr "Tekst na przycisku"
+
+#: vc_templates/vc_tabs.php:47
+msgid "Previous tab"
+msgstr "Poprzednia karta"
+
+#: vc_templates/vc_tabs.php:47
+msgid "Next tab"
+msgstr "Następna karta"
+
+#: woocommerce/cart/cart-empty.php:33
+msgid "YOUR SHOPPING CART IS EMPTY"
+msgstr "TWÓJ KOSZYK JEST PUSTY"
+
+#: woocommerce/cart/cart-empty.php:34 woocommerce/loop/no-products-found.php:17
+msgid ""
+"We invite you to get acquainted with an assortment of our shop. Surely you "
+"can find something for yourself!"
+msgstr ""
+"Zapraszamy do zapoznania się z asortymentem naszego sklepu. Na pewno "
+"znajdziesz coś dla siebie!"
+
+#: woocommerce/cart/cart-empty.php:39 woocommerce/loop/no-products-found.php:18
+msgid "Return To Shop"
+msgstr "Wróć do sklepu"
+
+#: woocommerce/cart/cart.php:27 woocommerce/cart/cart.php:103
+msgid "Total"
+msgstr "Całkowity"
+
+#: woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr "Dostępne na zamówienie"
+
+#: woocommerce/cart/cart.php:127
+msgid "Update Cart"
+msgstr "Zaktualizuj koszyk"
+
+#: woocommerce/cart/cart.php:127
+msgid "Proceed to Checkout"
+msgstr "Przejdź do płatności"
+
+#: woocommerce/cart/cart.php:147
+msgid "Have a coupon?"
+msgstr "Posiadasz kupon?"
+
+#: woocommerce/cart/cart.php:147
+msgid "Promotion"
+msgstr "Promocja"
+
+#: woocommerce/cart/cart.php:151
+msgid "Coupon code"
+msgstr "Kod kuponu"
+
+#: woocommerce/cart/cart.php:152
+msgid "Apply Coupon"
+msgstr "Zrealizuj kupon"
+
+#: woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr "Możesz być zainteresowany&hellip;"
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr "Rachunek &amp; Dostawa"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr "Szczegóły płatności"
+
+#: woocommerce/checkout/form-billing.php:51
+msgid "Create an account?"
+msgstr "Utwórz konto?"
+
+#: woocommerce/checkout/form-checkout.php:24
+msgid "You must be logged in to checkout."
+msgstr "Musisz się zalogować, aby dokonać płatności."
+
+#: woocommerce/checkout/form-checkout.php:62
+msgid "Your order"
+msgstr "Twoje zamówienie"
+
+#: woocommerce/checkout/form-shipping.php:16
+msgid "Shipping address"
+msgstr "Adres wysyłki"
+
+#: woocommerce/checkout/form-shipping.php:24
+msgid "Ship to a different address?"
+msgstr "Dostawa na inny adres?"
+
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Dodatkowe informacje"
+
+#: woocommerce/content-product_cat.php:87
+#, php-format
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s produkt"
+msgstr[1] "%s produckty"
+msgstr[2] "%s produktów"
+
+#: woocommerce/content-product_cat.php:96
+msgid "Read More"
+msgstr "Czytaj dalej"
+
+#: woocommerce/global/form-login.php:23
+msgid "Username or email"
+msgstr "Nazwa użytkownika lub adres email"
+
+#: woocommerce/global/form-login.php:27
+msgid "Password"
+msgstr "Hasło"
+
+#: woocommerce/global/form-login.php:36
+msgid "Login"
+msgstr "Zaloguj się"
+
+#: woocommerce/global/form-login.php:39
+msgid "Remember me"
+msgstr "Zapamiętaj mnie"
+
+#: woocommerce/global/form-login.php:43
+msgid "Lost your password?"
+msgstr "Zapomniałeś hasła?"
+
+#: woocommerce/loop/no-products-found.php:16
+msgid "No products were found"
+msgstr "Nie znaleziono produktów"
+
+#: woocommerce/product-quick-view.php:84
+msgid "Share:"
+msgstr "Udostępnij:"
+
+#: woocommerce/product-quick-view.php:98
+msgid "Details"
+msgstr "Detale"
+
+#: woocommerce/product-quick-view.php:105
+msgid "Show full details"
+msgstr "Pokaż wszystkie szczegóły"
+
+#: woocommerce/single-product-content-booking.php:19
+msgid "Product price"
+msgstr "Cena produktu"
+
+#: woocommerce/single-product-content-booking.php:38
+msgid "Share"
+msgstr "Udostępnij"
+
+#: woocommerce/single-product-content-booking.php:47
+#: woocommerce/single-product-content-center.php:48
+#: woocommerce/single-product-content-fixed.php:9
+#: woocommerce/single-product-content.php:29
+msgid "Product Information"
+msgstr "Informacja o produkcie"
+
+#: woocommerce/single-product/product-image.php:198
+msgid "Placeholder"
+msgstr "Symbol zastępczy"
+
+#: woocommerce/single-product/product-image.php:207
+msgid "Zoom images"
+msgstr "Powiększ obraz"
+
+#: woocommerce/single-product/product-image.php:211
+#: woocommerce/single-product/product-image.php:220
+msgid "Open Video"
+msgstr "Otwórz video"
+
+#: woocommerce/single-product/product-image.php:233
+msgid "Video is not supporting by your browser"
+msgstr "Film nie jest obsługiwany przez przeglądarkę"
+
+#: woocommerce/single-product/product-image.php:234
+msgid "Download Video"
+msgstr "Ściągnij video"
+
+#: woocommerce/single-product/related.php:21
+msgid "Related Products"
+msgstr "Powiązane produkty"
+
+#: woocommerce/single-product/up-sells.php:34
+#: woocommerce/single-product/up-sells.php:37
+msgid "Our offers"
+msgstr "Nasze oferty"
+
+#: woosearchform.php:29
+msgid "Type here..."
+msgstr "Szukaj..."
+
+#: woosearchform.php:34
+msgid "All categories"
+msgstr "Wszystkie kategorie"
+
+#. Theme Name of the plugin/theme
+msgid "XStore"
+msgstr "XStore"
+
+#. Theme URI of the plugin/theme
+msgid "http://8theme.com/demo/xstore/"
+msgstr "http://8theme.com/demo/xstore/"
+
+#. Description of the plugin/theme
+msgid "ThemeForest Premium Theme"
+msgstr "ThemeForest Premium Theme"
+
+#. Author of the plugin/theme
+msgid "8theme"
+msgstr "8theme"
+
+#. Author URI of the plugin/theme
+msgid "http://www.8theme.com"
+msgstr "http://www.8theme.com"
